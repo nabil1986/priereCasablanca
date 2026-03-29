@@ -1689,4 +1689,5 @@
         {id:'VG2',word:'كسب',  direction:'V',clueRow:8,clueCol:0,length:3,clue:'ربح'},
         {id:'VH2',word:'ملح',  direction:'V',clueRow:8,clueCol:6,length:3,clue:'ذهب أبيض'},
      ]},
+
 ]
