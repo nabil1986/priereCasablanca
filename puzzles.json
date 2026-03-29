@@ -1,5 +1,5 @@
 [
-{"id":1,"title":'الطبيعة',sub"title":'عالم الطبيعة من حولنا',
+{"id":1,"title":'الطبيعة',subtitle:'عالم الطبيعة من حولنا',
    difficulty:'easy',category:'nature',
    gr"id"Rows:5,gr"id"Cols:4,gr"id"Size:4,
    words:[
@@ -10,7 +10,7 @@
       {"id":'V2',word:'لحم',direction:'V',clueRow:1,clueCol:2,length:3,clue:'طعام حيواني'},
       {"id":'V3',word:'عسل',direction:'V',clueRow:1,clueCol:3,length:3,clue:'حلاوة النحل'},
   ]},
-  {"id":2,"title":'الحياة اليومية',sub"title":'مفردات من يومياتنا',
+  {"id":2,"title":'الحياة اليومية',subtitle:'مفردات من يومياتنا',
    difficulty:'easy',category:'daily',
    gr"id"Rows:5,gr"id"Cols:4,gr"id"Size:4,
    words:[
@@ -21,7 +21,7 @@
       {"id":'V2',word:'سمك',direction:'V',clueRow:1,clueCol:2,length:3,clue:'كَثَافَة'},
       {"id":'V3',word:'نجم',direction:'V',clueRow:1,clueCol:3,length:3,clue:'من سكان الفضاء'},
   ]},
-  {"id":3,"title":'الطعام والشراب',sub"title":'ألذ ما في المطبخ',
+  {"id":3,"title":'الطعام والشراب',subtitle:'ألذ ما في المطبخ',
    difficulty:'easy',category:'daily',
    gr"id"Rows:5,gr"id"Cols:4,gr"id"Size:4,
    words:[
@@ -32,7 +32,7 @@
       {"id":'V2',word:'ظلم',direction:'V',clueRow:1,clueCol:2,length:3,clue:'الجور'},
       {"id":'V3',word:'درس',direction:'V',clueRow:1,clueCol:3,length:3,clue:'تعلّم'},
   ]},
-  {"id":4,"title":'الأسرة والبيت',sub"title":'مفردات العائلة',
+  {"id":4,"title":'الأسرة والبيت',subtitle:'مفردات العائلة',
    difficulty:'easy',category:'daily',
    gr"id"Rows:5,gr"id"Cols:4,gr"id"Size:4,
    words:[
@@ -43,7 +43,7 @@
       {"id":'V2',word:'رجل',direction:'V',clueRow:1,clueCol:2,length:3,clue:'قدم'},
       {"id":'V3',word:'ريح',direction:'V',clueRow:1,clueCol:3,length:3,clue:'هواء متحرك'},
   ]},
-  {"id":5,"title":'الحيوانات',sub"title":'مملكة الحيوان',
+  {"id":5,"title":'الحيوانات',subtitle:'مملكة الحيوان',
    difficulty:'easy',category:'nature',
    gr"id"Rows:5,gr"id"Cols:4,gr"id"Size:4,
    words:[
@@ -54,7 +54,7 @@
       {"id":'V2',word:'زيت',direction:'V',clueRow:1,clueCol:2,length:3,clue:'سائل دهني'},
       {"id":'V3',word:'قلب',direction:'V',clueRow:1,clueCol:3,length:3,clue:'عضو ضخ الدم'},
   ]},
-  {"id":6,"title":'الجسم والصحة',sub"title":'أعضاء الإنسان',
+  {"id":6,"title":'الجسم والصحة',subtitle:'أعضاء الإنسان',
    difficulty:'easy',category:'science',
    gr"id"Rows:5,gr"id"Cols:4,gr"id"Size:4,
    words:[
@@ -65,7 +65,7 @@
       {"id":'V2',word:'سلم',direction:'V',clueRow:1,clueCol:2,length:3,clue:'الهدوء'},
       {"id":'V3',word:'زرع',direction:'V',clueRow:1,clueCol:3,length:3,clue:'بذر'},
   ]},
-  {"id":7,"title":'الفصول',sub"title":'مواسم السنة الأربعة',
+  {"id":7,"title":'الفصول',subtitle:'مواسم السنة الأربعة',
    difficulty:'easy',category:'nature',
    gr"id"Rows:5,gr"id"Cols:4,gr"id"Size:4,
    words:[
@@ -76,7 +76,7 @@
       {"id":'V2',word:'لون',direction:'V',clueRow:1,clueCol:2,length:3,clue:'ما تراه العين'},
       {"id":'V3',word:'مشى',direction:'V',clueRow:1,clueCol:3,length:3,clue:'سار على قدميه'},
   ]},
-  {"id":8,"title":'الأفعال',sub"title":'أفعال متنوعة',
+  {"id":8,"title":'الأفعال',subtitle:'أفعال متنوعة',
    difficulty:'easy',category:'daily',
    gr"id"Rows:5,gr"id"Cols:4,gr"id"Size:4,
    words:[
@@ -87,7 +87,7 @@
       {"id":'V2',word:'نام',direction:'V',clueRow:1,clueCol:2,length:3,clue:'استراح ليلاً'},
       {"id":'V3',word:'جبل',direction:'V',clueRow:1,clueCol:3,length:3,clue:'تضاريس عالية'},
   ]},
-  {"id":9,"title":'السماء والأرض',sub"title":'الكون من حولنا',
+  {"id":9,"title":'السماء والأرض',subtitle:'الكون من حولنا',
    difficulty:'easy',category:'science',
    gr"id"Rows:5,gr"id"Cols:4,gr"id"Size:4,
    words:[
@@ -98,7 +98,7 @@
       {"id":'V2',word:'قلم',direction:'V',clueRow:1,clueCol:2,length:3,clue:'أداة الكتابة'},
       {"id":'V3',word:'شهر',direction:'V',clueRow:1,clueCol:3,length:3,clue:'شنع'},
   ]},
-  {"id":10,"title":'المهن',sub"title":'أعمال الناس',
+  {"id":10,"title":'المهن',subtitle:'أعمال الناس',
    difficulty:'easy',category:'daily',
    gr"id"Rows:5,gr"id"Cols:4,gr"id"Size:4,
    words:[
@@ -109,7 +109,7 @@
       {"id":'V2',word:'نجم',direction:'V',clueRow:1,clueCol:2,length:3,clue:'ممثل مشهور'},
       {"id":'V3',word:'عقل',direction:'V',clueRow:1,clueCol:3,length:3,clue:'مركز التفكير'},
   ]},
-  {"id":11,"title":'الحضارة',sub"title":'روائع الحضارة الإنسانية',
+  {"id":11,"title":'الحضارة',subtitle:'روائع الحضارة الإنسانية',
    difficulty:'medium',category:'history',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -122,7 +122,7 @@
       {"id":'V4',word:'رواد',direction:'V',clueRow:1,clueCol:4,length:4,clue:'المبتكرون الأوائل'},
       {"id":'V5',word:'وردة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'زهرة'},
   ]},
-  {"id":12,"title":'العلوم',sub"title":'دنيا المعرفة والعلم',
+  {"id":12,"title":'العلوم',subtitle:'دنيا المعرفة والعلم',
    difficulty:'medium',category:'science',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -135,7 +135,7 @@
       {"id":'V4',word:'باقي',direction:'V',clueRow:1,clueCol:4,length:4,clue:'ما تبقى'},
       {"id":'V5',word:'مطبخ',direction:'V',clueRow:1,clueCol:5,length:4,clue:'غرفة الطبخ'},
   ]},
-  {"id":13,"title":'الجغرافيا',sub"title":'عالمنا الكبير',
+  {"id":13,"title":'الجغرافيا',subtitle:'عالمنا الكبير',
    difficulty:'medium',category:'geography',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -148,7 +148,7 @@
       {"id":'V4',word:'جامع',direction:'V',clueRow:1,clueCol:4,length:4,clue:'مكان الصلاة'},
       {"id":'V5',word:'لحظة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'وقت قصير جداً'},
   ]},
-  {"id":14,"title":'الفنون والآداب',sub"title":'عالم الإبداع',
+  {"id":14,"title":'الفنون والآداب',subtitle:'عالم الإبداع',
    difficulty:'medium',category:'history',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -161,7 +161,7 @@
       {"id":'V4',word:'صادق',direction:'V',clueRow:1,clueCol:4,length:4,clue:'من يقول الحق'},
       {"id":'V5',word:'نجمة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'جرم سماوي'},
   ]},
-  {"id":15,"title":'الطبيعة الكبرى',sub"title":'بحار وجبال',
+  {"id":15,"title":'الطبيعة الكبرى',subtitle:'بحار وجبال',
    difficulty:'medium',category:'nature',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -174,7 +174,7 @@
       {"id":'V4',word:'حارس',direction:'V',clueRow:1,clueCol:4,length:4,clue:'رقيب'},
       {"id":'V5',word:'ثمرة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'ناتج الشجر'},
   ]},
-  {"id":16,"title":'المدينة',sub"title":'الحياة الحضرية',
+  {"id":16,"title":'المدينة',subtitle:'الحياة الحضرية',
    difficulty:'medium',category:'daily',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -187,7 +187,7 @@
       {"id":'V4',word:'عالي',direction:'V',clueRow:1,clueCol:4,length:4,clue:'مرتفع'},
       {"id":'V5',word:'مطبخ',direction:'V',clueRow:1,clueCol:5,length:4,clue:'مطهى'},
   ]},
-  {"id":17,"title":'التاريخ',sub"title":'عبر الزمان',
+  {"id":17,"title":'التاريخ',subtitle:'عبر الزمان',
    difficulty:'medium',category:'history',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -200,7 +200,7 @@
       {"id":'V4',word:'راضي',direction:'V',clueRow:1,clueCol:4,length:4,clue:'قانع'},
       {"id":'V5',word:'مطبخ',direction:'V',clueRow:1,clueCol:5,length:4,clue:'فن الطبخ'},
   ]},
-  {"id":18,"title":'المشاعر',sub"title":'عواطف وأحاسيس',
+  {"id":18,"title":'المشاعر',subtitle:'عواطف وأحاسيس',
    difficulty:'medium',category:'daily',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -213,7 +213,7 @@
       {"id":'V4',word:'نجاح',direction:'V',clueRow:1,clueCol:4,length:4,clue:'توفيق'},
       {"id":'V5',word:'شجرة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'قد تخفي الغابة'},
   ]},
-  {"id":19,"title":'القيم',sub"title":'مكارم الأخلاق',
+  {"id":19,"title":'القيم',subtitle:'مكارم الأخلاق',
    difficulty:'medium',category:'religion',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -226,7 +226,7 @@
       {"id":'V4',word:'حارس',direction:'V',clueRow:1,clueCol:4,length:4,clue:'خفير'},
       {"id":'V5',word:'نزهة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'رحلة ترفيهية'},
   ]},
-  {"id":20,"title":'الصحة والطب',sub"title":'العناية بالجسم',
+  {"id":20,"title":'الصحة والطب',subtitle:'العناية بالجسم',
    difficulty:'medium',category:'science',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -239,7 +239,7 @@
       {"id":'V4',word:'تراب',direction:'V',clueRow:1,clueCol:4,length:4,clue:'ما تحت الأقدام'},
       {"id":'V5',word:'زهرة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'نبات عطري'},
   ]},
-  {"id":21,"title":'التعليم',sub"title":'العلم والدراسة',
+  {"id":21,"title":'التعليم',subtitle:'العلم والدراسة',
    difficulty:'medium',category:'science',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -252,7 +252,7 @@
       {"id":'V4',word:'جامع',direction:'V',clueRow:1,clueCol:4,length:4,clue:'مكان الصلاة'},
       {"id":'V5',word:'ثمرة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'فائدة'},
   ]},
-  {"id":22,"title":'الثقافة',sub"title":'الهوية والإرث',
+  {"id":22,"title":'الثقافة',subtitle:'الهوية والإرث',
    difficulty:'medium',category:'history',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -265,7 +265,7 @@
       {"id":'V4',word:'تراب',direction:'V',clueRow:1,clueCol:4,length:4,clue:'ما تحت الأقدام'},
       {"id":'V5',word:'ثمرة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'عائد'},
   ]},
-  {"id":23,"title":'البيئة',sub"title":'حماية الطبيعة',
+  {"id":23,"title":'البيئة',subtitle:'حماية الطبيعة',
    difficulty:'medium',category:'nature',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -278,7 +278,7 @@
       {"id":'V4',word:'طريق',direction:'V',clueRow:1,clueCol:4,length:4,clue:'ممر'},
       {"id":'V5',word:'شجرة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'نبات خشبي'},
   ]},
-  {"id":24,"title":'السياحة',sub"title":'السفر والترحال',
+  {"id":24,"title":'السياحة',subtitle:'السفر والترحال',
    difficulty:'medium',category:'geography',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -291,7 +291,7 @@
       {"id":'V4',word:'صديق',direction:'V',clueRow:1,clueCol:4,length:4,clue:'الرفيق'},
       {"id":'V5',word:'نجمة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'جرم سماوي'},
   ]},
-  {"id":25,"title":'الأدب',sub"title":'الشعر والنثر',
+  {"id":25,"title":'الأدب',subtitle:'الشعر والنثر',
    difficulty:'medium',category:'history',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -304,7 +304,7 @@
       {"id":'V4',word:'صديق',direction:'V',clueRow:1,clueCol:4,length:4,clue:'الرفيق'},
       {"id":'V5',word:'ثمرة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'محصول'},
   ]},
-  {"id":26,"title":'الدين',sub"title":'الروحانيات والإيمان',
+  {"id":26,"title":'الدين',subtitle:'الروحانيات والإيمان',
    difficulty:'medium',category:'religion',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -317,7 +317,7 @@
       {"id":'V4',word:'صادق',direction:'V',clueRow:1,clueCol:4,length:4,clue:'من يقول الحق'},
       {"id":'V5',word:'ثمرة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'حمل'},
   ]},
-  {"id":27,"title":'الاقتصاد',sub"title":'عالم التجارة',
+  {"id":27,"title":'الاقتصاد',subtitle:'عالم التجارة',
    difficulty:'medium',category:'daily',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -330,7 +330,7 @@
       {"id":'V4',word:'صانع',direction:'V',clueRow:1,clueCol:4,length:4,clue:'من يصنع الأشياء'},
       {"id":'V5',word:'زهرة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'وردة'},
   ]},
-  {"id":28,"title":'العائلة',sub"title":'روابط القرابة',
+  {"id":28,"title":'العائلة',subtitle:'روابط القرابة',
    difficulty:'medium',category:'daily',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -343,7 +343,7 @@
       {"id":'V4',word:'جنود',direction:'V',clueRow:1,clueCol:4,length:4,clue:'جمع جندي'},
       {"id":'V5',word:'زهرة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'كائن ربيعي'},
   ]},
-  {"id":29,"title":'الرياضة',sub"title":'النشاط البدني',
+  {"id":29,"title":'الرياضة',subtitle:'النشاط البدني',
    difficulty:'medium',category:'sports',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -356,7 +356,7 @@
       {"id":'V4',word:'حارس',direction:'V',clueRow:1,clueCol:4,length:4,clue:'حامي'},
       {"id":'V5',word:'نزهة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'المشي والتجول'},
   ]},
-  {"id":30,"title":'المجتمع',sub"title":'الحياة الاجتماعية',
+  {"id":30,"title":'المجتمع',subtitle:'الحياة الاجتماعية',
    difficulty:'medium',category:'daily',
    gr"id"Rows:6,gr"id"Cols:6,gr"id"Size:6,
    words:[
@@ -369,7 +369,7 @@
       {"id":'V4',word:'شجاع',direction:'V',clueRow:1,clueCol:4,length:4,clue:'لا يهاب الخطر'},
       {"id":'V5',word:'شجرة',direction:'V',clueRow:1,clueCol:5,length:4,clue:'غرس'},
   ]},
-  {"id":31,"title":'الطبيعة والحياة',sub"title":'أسرار الطبيعة الجميلة',
+  {"id":31,"title":'الطبيعة والحياة',subtitle:'أسرار الطبيعة الجميلة',
    difficulty:'hard',category:'nature',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -396,7 +396,7 @@
       {"id":'VG2',word:'وله',direction:'V',clueRow:5,clueCol:6,length:3,clue:'الشوق الشديد'},
       {"id":'VH2',word:'خير',direction:'V',clueRow:5,clueCol:7,length:3,clue:'ما ينفع'},
   ]},
-  {"id":32,"title":'العلم والمعرفة',sub"title":'رحلة في عالم العقل',
+  {"id":32,"title":'العلم والمعرفة',subtitle:'رحلة في عالم العقل',
    difficulty:'hard',category:'science',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -423,7 +423,7 @@
       {"id":'VG2',word:'بحر',direction:'V',clueRow:5,clueCol:6,length:3,clue:'من الشعر'},
       {"id":'VH2',word:'ركض',direction:'V',clueRow:5,clueCol:7,length:3,clue:'عجل'},
   ]},
-  {"id":33,"title":'التراث العربي',sub"title":'روائع الحضارة',
+  {"id":33,"title":'التراث العربي',subtitle:'روائع الحضارة',
    difficulty:'hard',category:'history',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -450,7 +450,7 @@
       {"id":'VG2',word:'روح',direction:'V',clueRow:5,clueCol:6,length:3,clue:'ذَات'},
       {"id":'VH2',word:'مطر',direction:'V',clueRow:5,clueCol:7,length:3,clue:'شتاء'},
   ]},
-  {"id":34,"title":'البحر والسماء',sub"title":'عوالم بلا حدود',
+  {"id":34,"title":'البحر والسماء',subtitle:'عوالم بلا حدود',
    difficulty:'hard',category:'nature',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -477,7 +477,7 @@
       {"id":'VG2',word:'رجل',direction:'V',clueRow:5,clueCol:6,length:3,clue:'إحدى الرجلين'},
       {"id":'VH2',word:'لحم',direction:'V',clueRow:5,clueCol:7,length:3,clue:'من مصادر الطاقة'},
   ]},
-  {"id":35,"title":'الأرض والإنسان',sub"title":'علاقة الإنسان بالأرض',
+  {"id":35,"title":'الأرض والإنسان',subtitle:'علاقة الإنسان بالأرض',
    difficulty:'hard',category:'geography',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -504,7 +504,7 @@
       {"id":'VG2',word:'عسل',direction:'V',clueRow:5,clueCol:6,length:3,clue:'يدس فيه السم'},
       {"id":'VH2',word:'لحم',direction:'V',clueRow:5,clueCol:7,length:3,clue:'كساء العظم'},
   ]},
-  {"id":36,"title":'الزمان والمكان',sub"title":'أبعاد الكون',
+  {"id":36,"title":'الزمان والمكان',subtitle:'أبعاد الكون',
    difficulty:'hard',category:'science',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -531,7 +531,7 @@
       {"id":'VG2',word:'ملح',direction:'V',clueRow:5,clueCol:6,length:3,clue:'ذهب أبيض'},
       {"id":'VH2',word:'عقل',direction:'V',clueRow:5,clueCol:7,length:3,clue:'مركز التفكير'},
   ]},
-  {"id":37,"title":'الفضيلة والقيم',sub"title":'أخلاق وقيم إسلامية',
+  {"id":37,"title":'الفضيلة والقيم',subtitle:'أخلاق وقيم إسلامية',
    difficulty:'hard',category:'religion',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -558,7 +558,7 @@
       {"id":'VG2',word:'نخل',direction:'V',clueRow:5,clueCol:6,length:3,clue:'شجرة التمر'},
       {"id":'VH2',word:'درس',direction:'V',clueRow:5,clueCol:7,length:3,clue:'لقن'},
   ]},
-  {"id":38,"title":'الحرب والسلام',sub"title":'صراع وأمل للإنسانية',
+  {"id":38,"title":'الحرب والسلام',subtitle:'صراع وأمل للإنسانية',
    difficulty:'hard',category:'history',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -585,7 +585,7 @@
       {"id":'VG2',word:'ظلم',direction:'V',clueRow:5,clueCol:6,length:3,clue:'اضْطِهاد'},
       {"id":'VH2',word:'ملك',direction:'V',clueRow:5,clueCol:7,length:3,clue:'سلطة'},
   ]},
-  {"id":39,"title":'الماء والحياة',sub"title":'سر الحياة الأزلي',
+  {"id":39,"title":'الماء والحياة',subtitle:'سر الحياة الأزلي',
    difficulty:'hard',category:'nature',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -612,7 +612,7 @@
       {"id":'VG2',word:'دار',direction:'V',clueRow:5,clueCol:6,length:3,clue:'انعطف'},
       {"id":'VH2',word:'سمع',direction:'V',clueRow:5,clueCol:7,length:3,clue:'أطاع'},
   ]},
-  {"id":40,"title":'الحكمة والعقل',sub"title":'نور العقل والبصيرة',
+  {"id":40,"title":'الحكمة والعقل',subtitle:'نور العقل والبصيرة',
    difficulty:'hard',category:'science',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -639,7 +639,7 @@
       {"id":'VG2',word:'سمك',direction:'V',clueRow:5,clueCol:6,length:3,clue:'ثَخَانَة'},
       {"id":'VH2',word:'مرض',direction:'V',clueRow:5,clueCol:7,length:3,clue:'وباء'},
   ]},
-  {"id":41,"title":'الحضارات القديمة',sub"title":'تاريخ الإنسانية',
+  {"id":41,"title":'الحضارات القديمة',subtitle:'تاريخ الإنسانية',
    difficulty:'hard',category:'history',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -666,7 +666,7 @@
       {"id":'VG2',word:'قلم',direction:'V',clueRow:5,clueCol:6,length:3,clue:'رصاص'},
       {"id":'VH2',word:'زرع',direction:'V',clueRow:5,clueCol:7,length:3,clue:'فلح'},
   ]},
-  {"id":42,"title":'الجسم والنفس',sub"title":'رعاية الإنسان',
+  {"id":42,"title":'الجسم والنفس',subtitle:'رعاية الإنسان',
    difficulty:'hard',category:'science',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -693,7 +693,7 @@
       {"id":'VG2',word:'يوم',direction:'V',clueRow:5,clueCol:6,length:3,clue:'أربع وعشرون ساعة'},
       {"id":'VH2',word:'ليل',direction:'V',clueRow:5,clueCol:7,length:3,clue:'دجى'},
   ]},
-  {"id":43,"title":'المجتمع والأسرة',sub"title":'بناء المجتمع السليم',
+  {"id":43,"title":'المجتمع والأسرة',subtitle:'بناء المجتمع السليم',
    difficulty:'hard',category:'daily',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -720,7 +720,7 @@
       {"id":'VG2',word:'وله',direction:'V',clueRow:5,clueCol:6,length:3,clue:'تعلق'},
       {"id":'VH2',word:'بحر',direction:'V',clueRow:5,clueCol:7,length:3,clue:'محيط'},
   ]},
-  {"id":44,"title":'الفنون الجميلة',sub"title":'جماليات الروح',
+  {"id":44,"title":'الفنون الجميلة',subtitle:'جماليات الروح',
    difficulty:'hard',category:'history',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -747,7 +747,7 @@
       {"id":'VG2',word:'لبن',direction:'V',clueRow:5,clueCol:6,length:3,clue:'شراب أبيض'},
       {"id":'VH2',word:'مشى',direction:'V',clueRow:5,clueCol:7,length:3,clue:'خطا'},
   ]},
-  {"id":45,"title":'الطبيعة البرية',sub"title":'الحيوانات والنباتات',
+  {"id":45,"title":'الطبيعة البرية',subtitle:'الحيوانات والنباتات',
    difficulty:'hard',category:'nature',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -774,7 +774,7 @@
       {"id":'VG2',word:'قلم',direction:'V',clueRow:5,clueCol:6,length:3,clue:'فرم'},
       {"id":'VH2',word:'زرع',direction:'V',clueRow:5,clueCol:7,length:3,clue:'شتل'},
   ]},
-  {"id":46,"title":'السماء والكون',sub"title":'النجوم والكواكب',
+  {"id":46,"title":'السماء والكون',subtitle:'النجوم والكواكب',
    difficulty:'hard',category:'science',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -801,7 +801,7 @@
       {"id":'VG2',word:'نخل',direction:'V',clueRow:5,clueCol:6,length:3,clue:'شجرة التمر'},
       {"id":'VH2',word:'علم',direction:'V',clueRow:5,clueCol:7,length:3,clue:'ينتفع به'},
   ]},
-  {"id":47,"title":'العدل والحق',sub"title":'قيم سامية وإنسانية',
+  {"id":47,"title":'العدل والحق',subtitle:'قيم سامية وإنسانية',
    difficulty:'hard',category:'religion',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -828,7 +828,7 @@
       {"id":'VG2',word:'عنب',direction:'V',clueRow:5,clueCol:6,length:3,clue:'فاكهة العصير'},
       {"id":'VH2',word:'ليل',direction:'V',clueRow:5,clueCol:7,length:3,clue:'دامس'},
   ]},
-  {"id":48,"title":'الرحلات',sub"title":'الاستكشاف والسفر',
+  {"id":48,"title":'الرحلات',subtitle:'الاستكشاف والسفر',
    difficulty:'hard',category:'geography',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -855,7 +855,7 @@
       {"id":'VG2',word:'زيت',direction:'V',clueRow:5,clueCol:6,length:3,clue:'من مشتقات البترول'},
       {"id":'VH2',word:'باب',direction:'V',clueRow:5,clueCol:7,length:3,clue:'بند'},
   ]},
-  {"id":49,"title":'النجوم والفلك',sub"title":'عجائب الكون',
+  {"id":49,"title":'النجوم والفلك',subtitle:'عجائب الكون',
    difficulty:'hard',category:'science',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -882,7 +882,7 @@
       {"id":'VG2',word:'جيش',direction:'V',clueRow:5,clueCol:6,length:3,clue:'حرس'},
       {"id":'VH2',word:'رأى',direction:'V',clueRow:5,clueCol:7,length:3,clue:'أبصر ونظر'},
   ]},
-  {"id":50,"title":'التحدي الأخير',sub"title":'اختبار المعرفة',
+  {"id":50,"title":'التحدي الأخير',subtitle:'اختبار المعرفة',
    difficulty:'hard',category:'daily',
    gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
    words:[
@@ -911,7 +911,7 @@
   ]},
 
 
-    {"id":51,"title":'الجسم الإنساني',sub"title":'تشريح ومعرفة',
+    {"id":51,"title":'الجسم الإنساني',subtitle:'تشريح ومعرفة',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -938,7 +938,7 @@
         {"id":'VG2',word:'بذر',direction:'V',clueRow:5,clueCol:6,length:3,clue:'بذر وزرع'},
         {"id":'VH2',word:'مرق',direction:'V',clueRow:5,clueCol:7,length:3,clue:'أسرع كالسهم'},
     ]},
-    {"id":52,"title":'المشاعر والأحاسيس',sub"title":'عواطف بشرية',
+    {"id":52,"title":'المشاعر والأحاسيس',subtitle:'عواطف بشرية',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -965,7 +965,7 @@
         {"id":'VG2',word:'ثمن',direction:'V',clueRow:5,clueCol:6,length:3,clue:'مقدار السعر'},
         {"id":'VH2',word:'طبع',direction:'V',clueRow:5,clueCol:7,length:3,clue:'طبع الكتاب'},
     ]},
-    {"id":53,"title":'المملكة الحيوانية',sub"title":'عالم الأحياء',
+    {"id":53,"title":'المملكة الحيوانية',subtitle:'عالم الأحياء',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -992,7 +992,7 @@
         {"id":'VG2',word:'عظم',direction:'V',clueRow:5,clueCol:6,length:3,clue:'هيكل الجسم'},
         {"id":'VH2',word:'قهر',direction:'V',clueRow:5,clueCol:7,length:3,clue:'أخضع وغلب'},
     ]},
-    {"id":54,"title":'الغذاء والصحة',sub"title":'تغذية سليمة',
+    {"id":54,"title":'الغذاء والصحة',subtitle:'تغذية سليمة',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1019,7 +1019,7 @@
         {"id":'VG2',word:'نسج',direction:'V',clueRow:5,clueCol:6,length:3,clue:'حاك القماش'},
         {"id":'VH2',word:'جهر',direction:'V',clueRow:5,clueCol:7,length:3,clue:'فضح'},
     ]},
-    {"id":55,"title":'الفيزياء والكون',sub"title":'قوانين الطبيعة',
+    {"id":55,"title":'الفيزياء والكون',subtitle:'قوانين الطبيعة',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1046,7 +1046,7 @@
         {"id":'VG2',word:'طرق',direction:'V',clueRow:5,clueCol:6,length:3,clue:'دقّ وطرق'},
         {"id":'VH2',word:'سحب',direction:'V',clueRow:5,clueCol:7,length:3,clue:'جذب وشدّ'},
     ]},
-    {"id":56,"title":'التاريخ القديم',sub"title":'حضارات بائدة',
+    {"id":56,"title":'التاريخ القديم',subtitle:'حضارات بائدة',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1073,7 +1073,7 @@
         {"id":'VG2',word:'عاب',direction:'V',clueRow:5,clueCol:6,length:3,clue:'عاب وانتقد'},
         {"id":'VH2',word:'ضاع',direction:'V',clueRow:5,clueCol:7,length:3,clue:'اختفى وضاع'},
     ]},
-    {"id":57,"title":'العلوم البيئية',sub"title":'حماية الأرض',
+    {"id":57,"title":'العلوم البيئية',subtitle:'حماية الأرض',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1100,7 +1100,7 @@
         {"id":'VG2',word:'فاز',direction:'V',clueRow:5,clueCol:6,length:3,clue:'حقق النصر'},
         {"id":'VH2',word:'صنع',direction:'V',clueRow:5,clueCol:7,length:3,clue:'أنتج الشيء'},
     ]},
-    {"id":58,"title":'الفلسفة والمنطق',sub"title":'تفكير عميق',
+    {"id":58,"title":'الفلسفة والمنطق',subtitle:'تفكير عميق',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1127,7 +1127,7 @@
         {"id":'VG2',word:'حزن',direction:'V',clueRow:5,clueCol:6,length:3,clue:'شعر بالحزن'},
         {"id":'VH2',word:'نجح',direction:'V',clueRow:5,clueCol:7,length:3,clue:'فاز وأفلح'},
     ]},
-    {"id":59,"title":'الاقتصاد والتجارة',sub"title":'المال والأعمال',
+    {"id":59,"title":'الاقتصاد والتجارة',subtitle:'المال والأعمال',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1154,7 +1154,7 @@
         {"id":'VG2',word:'ثوم',direction:'V',clueRow:5,clueCol:6,length:3,clue:'نبات حار'},
         {"id":'VH2',word:'شبع',direction:'V',clueRow:5,clueCol:7,length:3,clue:'اكتفى بالطعام'},
     ]},
-    {"id":60,"title":'الجغرافيا البشرية',sub"title":'الإنسان والمكان',
+    {"id":60,"title":'الجغرافيا البشرية',subtitle:'الإنسان والمكان',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1181,7 +1181,7 @@
         {"id":'VG2',word:'ذهب',direction:'V',clueRow:5,clueCol:6,length:3,clue:'معدن ثمين'},
         {"id":'VH2',word:'أثر',direction:'V',clueRow:5,clueCol:7,length:3,clue:'بقية الشيء'},
     ]},
-    {"id":61,"title":'الطب والأمراض',sub"title":'العناية بالصحة',
+    {"id":61,"title":'الطب والأمراض',subtitle:'العناية بالصحة',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1208,7 +1208,7 @@
         {"id":'VG2',word:'خسر',direction:'V',clueRow:5,clueCol:6,length:3,clue:'لم يفز'},
         {"id":'VH2',word:'غلق',direction:'V',clueRow:5,clueCol:7,length:3,clue:'أغلق الباب'},
     ]},
-    {"id":62,"title":'الأخلاق والقيم',sub"title":'الفضيلة الحقيقية',
+    {"id":62,"title":'الأخلاق والقيم',subtitle:'الفضيلة الحقيقية',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1238,7 +1238,7 @@
 
 
 
-    {"id":63,"title":'السياسة والحكم',sub"title":'نظم الدولة',
+    {"id":63,"title":'السياسة والحكم',subtitle:'نظم الدولة',
      difficulty:'hard',category:'history',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1265,7 +1265,7 @@
         {"id":'VG2',word:'ملك',direction:'V',clueRow:5,clueCol:6,length:3,clue:'حب الملوك شعب أمريكي'},
         {"id":'VH2',word:'فصل',direction:'V',clueRow:5,clueCol:7,length:3,clue:'فاصل'},
     ]},
-    {"id":64,"title":'الأدب والشعر',sub"title":'جماليات اللغة',
+    {"id":64,"title":'الأدب والشعر',subtitle:'جماليات اللغة',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1292,7 +1292,7 @@
         {"id":'VG2',word:'قمح',direction:'V',clueRow:5,clueCol:6,length:3,clue:'حبوب الخبز'},
         {"id":'VH2',word:'فول',direction:'V',clueRow:5,clueCol:7,length:3,clue:'حبوب مغذية'},
     ]},
-    {"id":65,"title":'الرياضة والبطولة',sub"title":'روح المنافسة',
+    {"id":65,"title":'الرياضة والبطولة',subtitle:'روح المنافسة',
      difficulty:'hard',category:'sports',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1319,7 +1319,7 @@
         {"id":'VG2',word:'دهر',direction:'V',clueRow:5,clueCol:6,length:3,clue:'زمن'},
         {"id":'VH2',word:'صدق',direction:'V',clueRow:5,clueCol:7,clue:'قال الحقيقة',length:3},
     ]},
-    {"id":66,"title":'الدين والروحانيات',sub"title":'إيمان وعبادة',
+    {"id":66,"title":'الدين والروحانيات',subtitle:'إيمان وعبادة',
      difficulty:'hard',category:'religion',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1346,7 +1346,7 @@
         {"id":'VG2',word:'حلم',direction:'V',clueRow:5,clueCol:6,length:3,clue:'رأى في النوم'},
         {"id":'VH2',word:'صدق',direction:'V',clueRow:5,clueCol:7,length:3,clue:'قال الحقيقة'},
     ]},
-    {"id":67,"title":'الطبيعة والنباتات',sub"title":'عالم الأشجار',
+    {"id":67,"title":'الطبيعة والنباتات',subtitle:'عالم الأشجار',
      difficulty:'hard',category:'nature',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1373,7 +1373,7 @@
         {"id":'VG2',word:'عطر',direction:'V',clueRow:5,clueCol:6,length:3,clue:'رائحة الورود'},
         {"id":'VH2',word:'تراب',direction:'V',clueRow:5,clueCol:7,length:3,clue:'ثَرى'},
     ]},
-    {"id":68,"title":'الحياة اليومية',sub"title":'عادات وتقاليد',
+    {"id":68,"title":'الحياة اليومية',subtitle:'عادات وتقاليد',
      difficulty:'hard',category:'daily',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1400,7 +1400,7 @@
         {"id":'VG2',word:'خرج',direction:'V',clueRow:5,clueCol:6,length:3,clue:'غادر المكان'},
         {"id":'VH2',word:'دخل',direction:'V',clueRow:5,clueCol:7,length:3,clue:'ولج'},
     ]},
-    {"id":69,"title":'الجغرافيا الطبيعية',sub"title":'الأرض والمناخ',
+    {"id":69,"title":'الجغرافيا الطبيعية',subtitle:'الأرض والمناخ',
      difficulty:'hard',category:'geography',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1427,7 +1427,7 @@
         {"id":'VG2',word:'برد',direction:'V',clueRow:5,clueCol:6,length:3,clue:'انخفاض الحرارة'},
         {"id":'VH2',word:'قطر',direction:'V',clueRow:5,clueCol:7,length:3,clue:'سال'},
     ]},
-    {"id":70,"title":'المدينة والعمران',sub"title":'التطور الحضري',
+    {"id":70,"title":'المدينة والعمران',subtitle:'التطور الحضري',
      difficulty:'hard',category:'daily',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1455,7 +1455,7 @@
         {"id":'VH2',word:'فندق',direction:'V',clueRow:5,clueCol:7,length:3,clue:'مكان الإقامة'},
     ]},
 
-   {"id":71,"title":'ثقافة وتراث',sub"title":'هوية وانتماء',
+   {"id":71,"title":'ثقافة وتراث',subtitle:'هوية وانتماء',
      difficulty:'hard',category:'history',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1482,7 +1482,7 @@
      ]},
 
     
-    {"id":72,"title":'لغة وبيان',sub"title":'فصاحة وبلاغة',
+    {"id":72,"title":'لغة وبيان',subtitle:'فصاحة وبلاغة',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1508,7 +1508,7 @@
      ]},
 
    
-    {"id":73,"title":'تاريخ وجغرافيا',sub"title":'أماكن وأحداث',
+    {"id":73,"title":'تاريخ وجغرافيا',subtitle:'أماكن وأحداث',
      difficulty:'hard',category:'geography',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1534,7 +1534,7 @@
      ]},
 
     
-    {"id":74,"title":'حياة ومجتمع',sub"title":'عادات وطباع',
+    {"id":74,"title":'حياة ومجتمع',subtitle:'عادات وطباع',
      difficulty:'hard',category:'daily',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1561,7 +1561,7 @@
      ]},
 
     
-    {"id":75,"title":'ألفاظ وتعابير',sub"title":'كنوز المعجم',
+    {"id":75,"title":'ألفاظ وتعابير',subtitle:'كنوز المعجم',
      difficulty:'hard',category:'science',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1591,7 +1591,7 @@
      ]},
 
     
-    {"id":76,"title":'شخصيات وأعلام',sub"title":'رجال صنعوا التاريخ',
+    {"id":76,"title":'شخصيات وأعلام',subtitle:'رجال صنعوا التاريخ',
      difficulty:'hard',category:'history',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1617,7 +1617,7 @@
      ]},
 
     
-    {"id":77,"title":'طبيعة وبيئة',sub"title":'الأرض والفصول',
+    {"id":77,"title":'طبيعة وبيئة',subtitle:'الأرض والفصول',
      difficulty:'hard',category:'nature',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
@@ -1643,7 +1643,7 @@
         {"id":'VE2',word:'نبض',  direction:'V',clueRow:4,clueCol:5,length:3,clue:'دقّ القلب'},
         {"id":'VF2',word:'وتر',  direction:'V',clueRow:4,clueCol:7,length:3,clue:'فرد'},
      ]},
-    {"id":78,"title":'قاموس الحياة',sub"title":'كلمات من صميم العيش',
+    {"id":78,"title":'قاموس الحياة',subtitle:'كلمات من صميم العيش',
      difficulty:'hard',category:'daily',
      gr"id"Rows:9,gr"id"Cols:8,gr"id"Size:8,
      words:[
