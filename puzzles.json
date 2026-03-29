@@ -1236,9 +1236,7 @@
         {id:'VH2',word:'عوض',direction:'V',clueRow:5,clueCol:7,length:3,clue:'عوّض وبدّل'},
     ]},
 
-// NOUVEAUX NIVEAUX 13-20 — à ajouter dans PUZZLES[]
-// Extraits et inspirés de la grille solution fournie en image
-// Format identique aux niveaux 1-12 : gridRows:9, gridCols:8
+
 
     {id:63,title:'السياسة والحكم',subtitle:'نظم الدولة',
      difficulty:'hard',category:'history',
@@ -1483,9 +1481,7 @@
         {id:'VD2',word:'عرق',  direction:'V',clueRow:8,clueCol:5,length:3,clue:'جنس'},
      ]},
 
-    // ─────────────────────────────────────────────────────────
-    // NIVEAU 22 — لغة وبيان (Langue & Expression)
-    // ─────────────────────────────────────────────────────────
+    
     {id:72,title:'لغة وبيان',subtitle:'فصاحة وبلاغة',
      difficulty:'hard',category:'science',
      gridRows:9,gridCols:8,gridSize:8,
@@ -1511,9 +1507,7 @@
         {id:'VD2',word:'نام',  direction:'V',clueRow:8,clueCol:0,length:3,clue:'رقد'},
      ]},
 
-    // ─────────────────────────────────────────────────────────
-    // NIVEAU 23 — تاريخ وجغرافيا (Histoire & Géo)
-    // ─────────────────────────────────────────────────────────
+   
     {id:73,title:'تاريخ وجغرافيا',subtitle:'أماكن وأحداث',
      difficulty:'hard',category:'geography',
      gridRows:9,gridCols:8,gridSize:8,
@@ -1539,9 +1533,7 @@
         {id:'VD2',word:'وطأ',  direction:'V',clueRow:4,clueCol:4,length:3,clue:'داس على الأرض'},
      ]},
 
-    // ─────────────────────────────────────────────────────────
-    // NIVEAU 24 — حياة ومجتمع (Société)
-    // ─────────────────────────────────────────────────────────
+    
     {id:74,title:'حياة ومجتمع',subtitle:'عادات وطباع',
      difficulty:'hard',category:'daily',
      gridRows:9,gridCols:8,gridSize:8,
@@ -1568,9 +1560,7 @@
         {id:'VF2',word:'ترب',  direction:'V',clueRow:8,clueCol:5,length:3,clue:'احتاج'},
      ]},
 
-    // ─────────────────────────────────────────────────────────
-    // NIVEAU 25 — ألفاظ وتعابير (Vocabulaire)
-    // ─────────────────────────────────────────────────────────
+    
     {id:75,title:'ألفاظ وتعابير',subtitle:'كنوز المعجم',
      difficulty:'hard',category:'science',
      gridRows:9,gridCols:8,gridSize:8,
@@ -1600,9 +1590,7 @@
         {id:'VH2',word:'همس',  direction:'V',clueRow:8,clueCol:0,length:3,clue:'تكلّم سراً'},
      ]},
 
-    // ─────────────────────────────────────────────────────────
-    // NIVEAU 26 — شخصيات وأعلام (Personnages)
-    // ─────────────────────────────────────────────────────────
+    
     {id:76,title:'شخصيات وأعلام',subtitle:'رجال صنعوا التاريخ',
      difficulty:'hard',category:'history',
      gridRows:9,gridCols:8,gridSize:8,
@@ -1628,9 +1616,7 @@
         {id:'VD2',word:'رجع',  direction:'V',clueRow:8,clueCol:1,length:3,clue:'عاد'},
      ]},
 
-    // ─────────────────────────────────────────────────────────
-    // NIVEAU 27 — طبيعة وبيئة (Nature & Environnement)
-    // ─────────────────────────────────────────────────────────
+    
     {id:77,title:'طبيعة وبيئة',subtitle:'الأرض والفصول',
      difficulty:'hard',category:'nature',
      gridRows:9,gridCols:8,gridSize:8,
@@ -1657,10 +1643,6 @@
         {id:'VE2',word:'نبض',  direction:'V',clueRow:4,clueCol:5,length:3,clue:'دقّ القلب'},
         {id:'VF2',word:'وتر',  direction:'V',clueRow:4,clueCol:7,length:3,clue:'فرد'},
      ]},
-
-    // ─────────────────────────────────────────────────────────
-    // NIVEAU 28 — قاموس الحياة (Dictionnaire de vie)
-    // ─────────────────────────────────────────────────────────
     {id:78,title:'قاموس الحياة',subtitle:'كلمات من صميم العيش',
      difficulty:'hard',category:'daily',
      gridRows:9,gridCols:8,gridSize:8,
