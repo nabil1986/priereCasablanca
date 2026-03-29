@@ -12229,5 +12229,188 @@
         "clue": "ذهب أبيض"
       }
     ]
-  }
+  },
+  {
+    "id": 79,
+    "title": "حياة ومجتمع",
+    "subtitle": "عادات وطباع",
+    "difficulty": "hard",
+    "category": "daily",
+    "gridRows": 9,
+    "gridCols": 8,
+    "gridSize": 8,
+    "words": [
+      {
+        "id": "H1",
+        "word": "ماسونيون",
+        "direction": "H",
+        "clueRow": 0,
+        "clueCol": 0,
+        "length": 8,
+        "clue": "بناؤون أحرار"
+      },
+      {
+        "id": "H2",
+        "word": "مقطوف",
+        "direction": "H",
+        "clueRow": 4,
+        "clueCol": 0,
+        "length": 6,
+        "clue": "مجني"
+      },
+      {
+        "id": "H3",
+        "word": "متواري",
+        "direction": "H",
+        "clueRow": 4,
+        "clueCol": 6,
+        "length": 6,
+        "clue": "مختف"
+      },
+      {
+        "id": "H4",
+        "word": "الطل",
+        "direction": "H",
+        "clueRow": 8,
+        "clueCol": 0,
+        "length": 5,
+        "clue": "الرذاذ"
+      },
+      {
+        "id": "H5",
+        "word": "ترنح",
+        "direction": "H",
+        "clueRow": 8,
+        "clueCol": 5,
+        "length": 5,
+        "clue": "تمايل من سكر"
+      },
+      {
+        "id": "VA",
+        "word": "ممت",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 0,
+        "length": 3,
+        "clue": "اشمئز وضجر"
+      },
+      {
+        "id": "VB",
+        "word": "اخذ",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 1,
+        "length": 3,
+        "clue": "تناول الشيء"
+      },
+      {
+        "id": "VC",
+        "word": "سمع",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 2,
+        "length": 3,
+        "clue": "استمع وأنصت"
+      },
+      {
+        "id": "VD",
+        "word": "وعد",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 3,
+        "length": 3,
+        "clue": "أعطى الموعد"
+      },
+      {
+        "id": "VE",
+        "word": "نصح",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 4,
+        "length": 3,
+        "clue": "أسدى النصيحة"
+      },
+      {
+        "id": "VF",
+        "word": "يعظ",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 5,
+        "length": 3,
+        "clue": "يقدّم العظة"
+      },
+      {
+        "id": "VG",
+        "word": "وان",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 6,
+        "length": 3,
+        "clue": "ضعف ووهن"
+      },
+      {
+        "id": "VH",
+        "word": "نبه",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 7,
+        "length": 3,
+        "clue": "نبّه وأيقظ"
+      },
+      {
+        "id": "VA2",
+        "word": "مثل",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 0,
+        "length": 3,
+        "clue": "شبيه ونظير"
+      },
+      {
+        "id": "VB2",
+        "word": "قطف",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 1,
+        "length": 3,
+        "clue": "قطف الثمرة"
+      },
+      {
+        "id": "VC2",
+        "word": "طار",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 2,
+        "length": 3,
+        "clue": "تحليق الطائر"
+      },
+      {
+        "id": "VD2",
+        "word": "وجد",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 3,
+        "length": 3,
+        "clue": "عثر على"
+      },
+      {
+        "id": "VE2",
+        "word": "فزع",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 4,
+        "length": 3,
+        "clue": "خاف وفزع"
+      },
+      {
+        "id": "VF2",
+        "word": "ترب",
+        "direction": "V",
+        "clueRow": 8,
+        "clueCol": 5,
+        "length": 3,
+        "clue": "التراب"
+      }
+    ]
+  },
 ]
