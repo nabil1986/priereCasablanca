@@ -369,33 +369,46 @@
       {"id":"V4","word":"شجاع","direction":"V","clueRow":1,"clueCol":4,"length":4,"clue":"لا يهاب الخطر"},
       {"id":"V5","word":"شجرة","direction":"V","clueRow":1,"clueCol":5,"length":4,"clue":"غرس"},
   ]},
-  {"id":31,"title":"الطبيعة والحياة","subtitle":"أسرار الطبيعة الجميلة",
-   "difficulty":"hard","category":"nature",
-   "gridRows":9,"gridCols":8,"gridSize":8,
-   "words":[
-      {"id":"H1","word":"بنت","direction":"H","clueRow":0,"clueCol":0,"length":3,"clue":"فتاة"},
-      {"id":"H2","word":"عقل","direction":"H","clueRow":0,"clueCol":4,"length":3,"clue":"مركز التفكير"},
-      {"id":"H3","word":"درس","direction":"H","clueRow":4,"clueCol":0,"length":3,"clue":"تحصيل"},
-      {"id":"H4","word":"سمك","direction":"H","clueRow":4,"clueCol":4,"length":3,"clue":"حيوان مائي"},
-      {"id":"H5","word":"رجل","direction":"H","clueRow":8,"clueCol":0,"length":3,"clue":"نصف المجتمع"},
-      {"id":"H6","word":"شهر","direction":"H","clueRow":8,"clueCol":4,"length":3,"clue":"ثلاثون يوماً"},
-      {"id":"VA","word":"نسر","direction":"V","clueRow":0,"clueCol":0,"length":3,"clue":"طائر جارح"},
-      {"id":"VB","word":"حصد","direction":"V","clueRow":1,"clueCol":1,"length":3,"clue":"قطع"},
-      {"id":"VC","word":"تمر","direction":"V","clueRow":1,"clueCol":2,"length":3,"clue":"بلح"},
-      {"id":"VD","word":"شمس","direction":"V","clueRow":1,"clueCol":3,"length":3,"clue":"نجمنا الكبير"},
-      {"id":"VE","word":"ليل","direction":"V","clueRow":0,"clueCol":4,"length":3,"clue":"وقت الظلام"},
-      {"id":"VF","word":"جلس","direction":"V","clueRow":1,"clueCol":5,"length":3,"clue":"قعد"},
-      {"id":"VG","word":"نجم","direction":"V","clueRow":1,"clueCol":6,"length":3,"clue":"احترف التنجيم"},
-      {"id":"VH","word":"ملك","direction":"V","clueRow":1,"clueCol":7,"length":3,"clue":"حيازة"},
-      {"id":"VA2","word":"حكم","direction":"V","clueRow":4,"clueCol":0,"length":3,"clue":"وسيط"},
-      {"id":"VB2","word":"بحر","direction":"V","clueRow":5,"clueCol":1,"length":3,"clue":"ماء مالح"},
-      {"id":"VC2","word":"ثلج","direction":"V","clueRow":5,"clueCol":2,"length":3,"clue":"جليد"},
-      {"id":"VD2","word":"عسل","direction":"V","clueRow":5,"clueCol":3,"length":3,"clue":"من السكريات"},
-      {"id":"VE2","word":"نحل","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"أديان"},
-      {"id":"VF2","word":"جيش","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"عسكر"},
-      {"id":"VG2","word":"وله","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"الشوق الشديد"},
-      {"id":"VH2","word":"خير","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"ما ينفع"},
-  ]},
+   {
+  "id": 31,
+  "title": "تحدي النخبة",
+  "subtitle": "مستوى احترافي شديد الصعوبة",
+  "difficulty": "hard",
+  "category": "general",
+  "gridRows": 12,
+  "gridCols": 12,
+  "gridSize": 12,
+
+  "words": [
+
+    // 🔴 HORIZONTAUX
+    { "id": "H1", "word": "ابتكار", "direction": "H", "clueRow": 0, "clueCol": 0, "length": 6, "clue": "إبداع جديد" },
+    { "id": "H2", "word": "اقتصاد", "direction": "H", "clueRow": 1, "clueCol": 0, "length": 6, "clue": "علم المال" },
+    { "id": "H3", "word": "برمجة", "direction": "H", "clueRow": 2, "clueCol": 2, "length": 5, "clue": "كتابة الكود" },
+    { "id": "H4", word: "تاريخ", "direction": "H", "clueRow": 3, "clueCol": 1, length: 5, "clue": "أحداث الماضي" },
+    { "id": "H5", word: "جغرافيا", "direction": "H", "clueRow": 4, "clueCol": 0, length: 7, "clue": "علم الأرض" },
+    { "id": "H6", word: "رياضيات", "direction": "H", "clueRow": 5, "clueCol": 1, length: 7, "clue": "علم الأرقام" },
+    { "id": "H7", word: "فلسفة", "direction": "H", "clueRow": 6, "clueCol": 2, length: 5, "clue": "حب الحكمة" },
+    { "id": "H8", word: "كيمياء", "direction": "H", "clueRow": 7, "clueCol": 1, length: 6, "clue": "علم المواد" },
+    { "id": "H9", word: "فيزياء", "direction": "H", "clueRow": 8, "clueCol": 2, length: 6, "clue": "علم الطبيعة" },
+    { "id": "H10", word: "هندسة", "direction": "H", "clueRow": 9, "clueCol": 1, length: 6, "clue": "تصميم وبناء" },
+
+    // 🔵 VERTICAUX
+    { "id": "V1", word: "علم", "direction": "V", "clueRow": 0, "clueCol": 0, "length": 3, "clue": "المعرفة" },
+    { "id": "V2", word: "نظام", "direction": "V", "clueRow": 0, "clueCol": 2, "length": 4, "clue": "ترتيب وتنظيم" },
+    { "id": "V3", word: "ذكاء", "direction": "V", "clueRow": 1, "clueCol": 4, "length": 4, "clue": "قدرة عقلية" },
+    { "id": "V4", word: "تحليل", "direction": "V", "clueRow": 2, "clueCol": 6, "length": 5, "clue": "تفكيك المشكلة" },
+    { "id": "V5", word: "تطوير", "direction": "V", "clueRow": 3, "clueCol": 8, "length": 5, "clue": "تحسين مستمر" },
+    { "id": "V6", word: "إبداع", "direction": "V", "clueRow": 4, "clueCol": 10, "length": 5, "clue": "خلق جديد" },
+    { "id": "V7", word: "نجاح", "direction": "V", "clueRow": 5, "clueCol": 3, "length": 4, "clue": "تحقيق الهدف" },
+    { "id": "V8", word: "تركيز", "direction": "V", "clueRow": 6, "clueCol": 5, "length": 5, "clue": "انتباه شديد" },
+    { "id": "V9", word: "منطق", "direction": "V", "clueRow": 7, "clueCol": 7, "length": 4, "clue": "تفكير سليم" },
+    { "id": "V10", word: "حلول", "direction": "V", "clueRow": 8, "clueCol": 9, "length": 4, "clue": "إجابات" }
+
+  ]
+},
+
+  
   {"id":32,"title":"العلم والمعرفة","subtitle":"رحلة في عالم العقل",
    "difficulty":"hard","category":"science",
    "gridRows":9,"gridCols":8,"gridSize":8,
