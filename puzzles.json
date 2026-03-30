@@ -12412,5 +12412,398 @@
         "clue": "التراب"
       }
     ]
+  },
+  {
+    "id": 80,
+    "title": "قاموس الحياة",
+    "subtitle": "كلمات من صميم العيش",
+    "difficulty": "hard",
+    "category": "daily",
+    "gridRows": 9,
+    "gridCols": 8,
+    "gridSize": 8,
+    "words": [
+      {
+        "id": "H1",
+        "word": "ملموس",
+        "direction": "H",
+        "clueRow": 0,
+        "clueCol": 0,
+        "length": 6,
+        "clue": "مادي"
+      },
+      {
+        "id": "H2",
+        "word": "فص",
+        "direction": "H",
+        "clueRow": 0,
+        "clueCol": 6,
+        "length": 2,
+        "clue": "قليل من الثوم"
+      },
+      {
+        "id": "H3",
+        "word": "محرم",
+        "direction": "H",
+        "clueRow": 4,
+        "clueCol": 0,
+        "length": 5,
+        "clue": "منديل"
+      },
+      {
+        "id": "H4",
+        "word": "مصّ",
+        "direction": "H",
+        "clueRow": 4,
+        "clueCol": 5,
+        "length": 3,
+        "clue": "ارشف"
+      },
+      {
+        "id": "H5",
+        "word": "منديل",
+        "direction": "H",
+        "clueRow": 8,
+        "clueCol": 0,
+        "length": 6,
+        "clue": "محرم"
+      },
+      {
+        "id": "H6",
+        "word": "كمل",
+        "direction": "H",
+        "clueRow": 8,
+        "clueCol": 6,
+        "length": 3,
+        "clue": "تم"
+      },
+      {
+        "id": "VA",
+        "word": "مهد",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 0,
+        "length": 3,
+        "clue": "مهد الفادي"
+      },
+      {
+        "id": "VB",
+        "word": "لاح",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 1,
+        "length": 3,
+        "clue": "ظهر من بعيد"
+      },
+      {
+        "id": "VC",
+        "word": "ملح",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 2,
+        "length": 3,
+        "clue": "نكهة الطعام"
+      },
+      {
+        "id": "VD",
+        "word": "مرق",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 3,
+        "length": 3,
+        "clue": "أسرع كالسهم"
+      },
+      {
+        "id": "VE",
+        "word": "وزن",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 4,
+        "length": 3,
+        "clue": "قدر الثقل"
+      },
+      {
+        "id": "VF",
+        "word": "سكر",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 5,
+        "length": 3,
+        "clue": "ترنح من سكر"
+      },
+      {
+        "id": "VG",
+        "word": "فزع",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 6,
+        "length": 3,
+        "clue": "خاف وفزع"
+      },
+      {
+        "id": "VH",
+        "word": "صدق",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 7,
+        "length": 3,
+        "clue": "قال الحقيقة"
+      },
+      {
+        "id": "VA2",
+        "word": "محب",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 0,
+        "length": 3,
+        "clue": "يكنّ المحبة"
+      },
+      {
+        "id": "VB2",
+        "word": "حرص",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 1,
+        "length": 3,
+        "clue": "اهتمّ وحرص"
+      },
+      {
+        "id": "VC2",
+        "word": "رهق",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 2,
+        "length": 3,
+        "clue": "تعب وأرهق"
+      },
+      {
+        "id": "VD2",
+        "word": "مدح",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 3,
+        "length": 3,
+        "clue": "أثنى بخير"
+      },
+      {
+        "id": "VE2",
+        "word": "وجد",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 4,
+        "length": 3,
+        "clue": "عثر على"
+      },
+      {
+        "id": "VF2",
+        "word": "سلق",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 5,
+        "length": 3,
+        "clue": "طبخ بالماء"
+      },
+      {
+        "id": "VG2",
+        "word": "كسب",
+        "direction": "V",
+        "clueRow": 8,
+        "clueCol": 0,
+        "length": 3,
+        "clue": "ربح وكسب"
+      },
+      {
+        "id": "VH2",
+        "word": "ملح",
+        "direction": "V",
+        "clueRow": 8,
+        "clueCol": 6,
+        "length": 3,
+        "clue": "ذهب أبيض"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "title": "حياة ومجتمع",
+    "subtitle": "عادات وطباع",
+    "difficulty": "hard",
+    "category": "daily",
+    "gridRows": 9,
+    "gridCols": 8,
+    "gridSize": 8,
+    "words": [
+      {
+        "id": "H1",
+        "word": "ماسونيون",
+        "direction": "H",
+        "clueRow": 0,
+        "clueCol": 0,
+        "length": 8,
+        "clue": "بناؤون أحرار"
+      },
+      {
+        "id": "H2",
+        "word": "مقطوف",
+        "direction": "H",
+        "clueRow": 4,
+        "clueCol": 0,
+        "length": 6,
+        "clue": "مجني"
+      },
+      {
+        "id": "H3",
+        "word": "متواري",
+        "direction": "H",
+        "clueRow": 4,
+        "clueCol": 6,
+        "length": 6,
+        "clue": "مختف"
+      },
+      {
+        "id": "H4",
+        "word": "الطل",
+        "direction": "H",
+        "clueRow": 8,
+        "clueCol": 0,
+        "length": 5,
+        "clue": "الرذاذ"
+      },
+      {
+        "id": "H5",
+        "word": "ترنح",
+        "direction": "H",
+        "clueRow": 8,
+        "clueCol": 5,
+        "length": 5,
+        "clue": "تمايل من سكر"
+      },
+      {
+        "id": "VA",
+        "word": "ممت",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 0,
+        "length": 3,
+        "clue": "اشمئز وضجر"
+      },
+      {
+        "id": "VB",
+        "word": "اخذ",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 1,
+        "length": 3,
+        "clue": "تناول الشيء"
+      },
+      {
+        "id": "VC",
+        "word": "سمع",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 2,
+        "length": 3,
+        "clue": "استمع وأنصت"
+      },
+      {
+        "id": "VD",
+        "word": "وعد",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 3,
+        "length": 3,
+        "clue": "أعطى الموعد"
+      },
+      {
+        "id": "VE",
+        "word": "نصح",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 4,
+        "length": 3,
+        "clue": "أسدى النصيحة"
+      },
+      {
+        "id": "VF",
+        "word": "يعظ",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 5,
+        "length": 3,
+        "clue": "يقدّم العظة"
+      },
+      {
+        "id": "VG",
+        "word": "وان",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 6,
+        "length": 3,
+        "clue": "ضعف ووهن"
+      },
+      {
+        "id": "VH",
+        "word": "نبه",
+        "direction": "V",
+        "clueRow": 0,
+        "clueCol": 7,
+        "length": 3,
+        "clue": "نبّه وأيقظ"
+      },
+      {
+        "id": "VA2",
+        "word": "مثل",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 0,
+        "length": 3,
+        "clue": "شبيه ونظير"
+      },
+      {
+        "id": "VB2",
+        "word": "قطف",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 1,
+        "length": 3,
+        "clue": "قطف الثمرة"
+      },
+      {
+        "id": "VC2",
+        "word": "طار",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 2,
+        "length": 3,
+        "clue": "تحليق الطائر"
+      },
+      {
+        "id": "VD2",
+        "word": "وجد",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 3,
+        "length": 3,
+        "clue": "عثر على"
+      },
+      {
+        "id": "VE2",
+        "word": "فزع",
+        "direction": "V",
+        "clueRow": 4,
+        "clueCol": 4,
+        "length": 3,
+        "clue": "خاف وفزع"
+      },
+      {
+        "id": "VF2",
+        "word": "ترب",
+        "direction": "V",
+        "clueRow": 8,
+        "clueCol": 5,
+        "length": 3,
+        "clue": "التراب"
+      }
+    ]
   }
 ]
