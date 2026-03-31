@@ -1512,7 +1512,6 @@
     { "id": "V17", "word": "وهن", "direction": "V", "clueRow": 6, "clueCol": 8, "length": 3, "clue": "ضعف" },
 
     { "id": "V18", "word": "جوبا", "direction": "V", "clueRow": 8, "clueCol": 10, "length": 4, "clue": "ملك قديم" },
-    { "id": "V19", "word": "نها", "direction": "V", "clueRow": 8, "clueCol": 12, "length": 3, "clue": "عقل" }
-  ]
-}
+    { "id": "V19", "word": "نها", "direction": "V", "clueRow": 8, "clueCol": 12, "length": 3, "clue": "عقل" },
+  ]}
 ]
