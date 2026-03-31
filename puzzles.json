@@ -1455,5 +1455,64 @@
         {"id":"VF2","word":"ميناء","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"مرسى السفن"},
         {"id":"VG2","word":"مطار","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"مكان الطائرات"},
         {"id":"VH2","word":"فندق","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"مكان الإقامة"},
-    ]}
+    ]},
+{
+  "id": 71,
+  "title": "شبكة احترافية كبرى",
+  "subtitle": "تحدي صعب جداً",
+  "difficulty": "pro",
+  "category": "general",
+
+  "gridRows": 13,
+  "gridCols": 13,
+  "gridSize": 13,
+
+  "words": [
+    { "id": "H1", "word": "مشرع", "direction": "H", "clueRow": 0, "clueCol": 0, "length": 5, "clue": "ضد مغلق" },
+    { "id": "H2", "word": "نهاوند", "direction": "H", "clueRow": 0, "clueCol": 6, "length": 6, "clue": "مدينة إيرانية" },
+
+    { "id": "H3", "word": "نسيب", "direction": "H", "clueRow": 2, "clueCol": 0, "length": 5, "clue": "غزل" },
+    { "id": "H4", "word": "سمير", "direction": "H", "clueRow": 2, "clueCol": 6, "length": 5, "clue": "جليس وأنيس" },
+
+    { "id": "H5", "word": "ذووك", "direction": "H", "clueRow": 4, "clueCol": 0, "length": 5, "clue": "أقاربك" },
+    { "id": "H6", "word": "الكبد", "direction": "H", "clueRow": 4, "clueCol": 6, "length": 5, "clue": "المشقة والمعاناة" },
+
+    { "id": "H7", "word": "دميم", "direction": "H", "clueRow": 6, "clueCol": 0, "length": 5, "clue": "ضد وسيم" },
+    { "id": "H8", "word": "لماما", "direction": "H", "clueRow": 6, "clueCol": 6, "length": 5, "clue": "نادرا" },
+
+    { "id": "H9", "word": "بتول", "direction": "H", "clueRow": 8, "clueCol": 0, "length": 5, "clue": "عذراء متعبدة" },
+    { "id": "H10", "word": "السد", "direction": "H", "clueRow": 8, "clueCol": 6, "length": 4, "clue": "الحاجز" },
+
+    { "id": "H11", "word": "السموأل", "direction": "H", "clueRow": 10, "clueCol": 0, "length": 7, "clue": "مضرب مثل في الوفاء" },
+    { "id": "H12", "word": "اديسون", "direction": "H", "clueRow": 10, "clueCol": 8, "length": 6, "clue": "مكتشف المصباح" },
+
+    { "id": "H13", "word": "سواسية", "direction": "H", "clueRow": 12, "clueCol": 2, "length": 7, "clue": "لا فرق بينهم" },
+
+    { "id": "V1", "word": "شجي", "direction": "V", "clueRow": 0, "clueCol": 0, "length": 3, "clue": "حزين" },
+    { "id": "V2", "word": "لن", "direction": "V", "clueRow": 0, "clueCol": 2, "length": 2, "clue": "نافية" },
+    { "id": "V3", "word": "ري", "direction": "V", "clueRow": 0, "clueCol": 4, "length": 2, "clue": "سقي" },
+
+    { "id": "V4", "word": "عبس", "direction": "V", "clueRow": 0, "clueCol": 6, "length": 3, "clue": "قبيلة عربية" },
+    { "id": "V5", "word": "حبا", "direction": "V", "clueRow": 0, "clueCol": 8, "length": 3, "clue": "أعطى" },
+    { "id": "V6", "word": "رحيم", "direction": "V", "clueRow": 0, "clueCol": 10, "length": 4, "clue": "رفيق" },
+
+    { "id": "V7", "word": "مد", "direction": "V", "clueRow": 2, "clueCol": 1, "length": 2, "clue": "ضد جزر" },
+    { "id": "V8", "word": "ينمو", "direction": "V", "clueRow": 2, "clueCol": 3, "length": 4, "clue": "يترعرع" },
+    { "id": "V9", "word": "هن", "direction": "V", "clueRow": 2, "clueCol": 5, "length": 2, "clue": "ضمير" },
+
+    { "id": "V10", "word": "سندان", "direction": "V", "clueRow": 2, "clueCol": 7, "length": 6, "clue": "أداة حداد" },
+    { "id": "V11", "word": "دالي", "direction": "V", "clueRow": 2, "clueCol": 9, "length": 4, "clue": "فنان إسباني" },
+    { "id": "V12", "word": "السياب", "direction": "V", "clueRow": 2, "clueCol": 11, "length": 6, "clue": "شاعر عراقي" },
+
+    { "id": "V13", "word": "تتا", "direction": "V", "clueRow": 6, "clueCol": 0, "length": 3, "clue": "جزء من متتالية" },
+    { "id": "V14", "word": "يدع", "direction": "V", "clueRow": 6, "clueCol": 2, "length": 3, "clue": "يترك" },
+    { "id": "V15", "word": "يتأكد", "direction": "V", "clueRow": 6, "clueCol": 4, "length": 6, "clue": "يتيقن" },
+
+    { "id": "V16", "word": "لص", "direction": "V", "clueRow": 6, "clueCol": 6, "length": 2, "clue": "سارق" },
+    { "id": "V17", "word": "وهن", "direction": "V", "clueRow": 6, "clueCol": 8, "length": 3, "clue": "ضعف" },
+
+    { "id": "V18", "word": "جوبا", "direction": "V", "clueRow": 8, "clueCol": 10, "length": 4, "clue": "ملك قديم" },
+    { "id": "V19", "word": "نها", "direction": "V", "clueRow": 8, "clueCol": 12, "length": 3, "clue": "عقل" }
+  ]
+}
 ]
