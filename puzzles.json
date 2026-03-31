@@ -1044,7 +1044,7 @@
         {"id":"VE2","word":"كيل","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"مقياس الحبوب"},
         {"id":"VF2","word":"وطن","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"البلد الأصلي"},
         {"id":"VG2","word":"طرق","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"دقّ وطرق"},
-        {"id":"VH2","word":"سحب","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"جذب وشدّ"},
+        {"id":"VH2","word":"سحب","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"جذب وشدّ"}
     ]},
     {"id":56,"title":"التاريخ القديم","subtitle":"حضارات بائدة",
      "difficulty":"hard","category":"science",
@@ -1071,7 +1071,7 @@
         {"id":"VE2","word":"فرض","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"أوجب وفرض"},
         {"id":"VF2","word":"حرق","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"أضرم النار"},
         {"id":"VG2","word":"عاب","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"عاب وانتقد"},
-        {"id":"VH2","word":"ضاع","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"اختفى وضاع"},
+        {"id":"VH2","word":"ضاع","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"اختفى وضاع"}
     ]},
     {"id":57,"title":"العلوم البيئية","subtitle":"حماية الأرض",
      "difficulty":"hard","category":"science",
@@ -1098,7 +1098,7 @@
         {"id":"VE2","word":"وطر","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"أراد وابتغى"},
         {"id":"VF2","word":"أنف","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"حاسة الشم"},
         {"id":"VG2","word":"فاز","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"حقق النصر"},
-        {"id":"VH2","word":"صنع","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"أنتج الشيء"},
+        {"id":"VH2","word":"صنع","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"أنتج الشيء"}
     ]},
     {"id":58,"title":"الفلسفة والمنطق","subtitle":"تفكير عميق",
      "difficulty":"hard","category":"science",
@@ -1125,7 +1125,7 @@
         {"id":"VE2","word":"مرّ","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"اجتاز المكان"},
         {"id":"VF2","word":"قدم","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"أسفل الرجل"},
         {"id":"VG2","word":"حزن","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"شعر بالحزن"},
-        {"id":"VH2","word":"نجح","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"فاز وأفلح"},
+        {"id":"VH2","word":"نجح","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"فاز وأفلح"}
     ]},
     {"id":59,"title":"الاقتصاد والتجارة","subtitle":"المال والأعمال",
      "difficulty":"hard","category":"science",
@@ -1152,7 +1152,7 @@
         {"id":"VE2","word":"ذكر","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"تذكّر وسمّى"},
         {"id":"VF2","word":"ركل","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"ركل بقدمه"},
         {"id":"VG2","word":"ثوم","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"نبات حار"},
-        {"id":"VH2","word":"شبع","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"اكتفى بالطعام"},
+        {"id":"VH2","word":"شبع","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"اكتفى بالطعام"}
     ]},
     {"id":60,"title":"الجغرافيا البشرية","subtitle":"الإنسان والمكان",
      "difficulty":"hard","category":"science",
@@ -1179,7 +1179,7 @@
         {"id":"VE2","word":"رفض","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"أبى ورفض"},
         {"id":"VF2","word":"طلع","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"بزغ وظهر"},
         {"id":"VG2","word":"ذهب","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"معدن ثمين"},
-        {"id":"VH2","word":"أثر","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"بقية الشيء"},
+        {"id":"VH2","word":"أثر","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"بقية الشيء"}
     ]},
     {"id":61,"title":"الطب والأمراض","subtitle":"العناية بالصحة",
      "difficulty":"hard","category":"science",
@@ -1206,7 +1206,7 @@
         {"id":"VE2","word":"قفز","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"وثب عالياً"},
         {"id":"VF2","word":"نشط","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"نشط وأسرع"},
         {"id":"VG2","word":"خسر","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"لم يفز"},
-        {"id":"VH2","word":"غلق","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"أغلق الباب"},
+        {"id":"VH2","word":"غلق","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"أغلق الباب"}
     ]},
     {"id":62,"title":"الأخلاق والقيم","subtitle":"الفضيلة الحقيقية",
      "difficulty":"hard","category":"science",
@@ -1233,12 +1233,8 @@
         {"id":"VE2","word":"زغر","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"رفع الصوت"},
         {"id":"VF2","word":"سيف","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"سلاح"},
         {"id":"VG2","word":"قتر","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"شحّ وقتر"},
-        {"id":"VH2","word":"عوض","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"عوّض وبدّل"},
+        {"id":"VH2","word":"عوض","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"عوّض وبدّل"}
     ]},
-
-// NOUVEAUX NIVEAUX 13-20 — à ajouter dans PUZZLES[]
-// Extraits et inspirés de la grille solution fournie en image
-// Format identique aux niveaux 1-12 : "gridRows":9, "gridCols":8
 
     {"id":63,"title":"السياسة والحكم","subtitle":"نظم الدولة",
      "difficulty":"hard","category":"history",
@@ -1265,7 +1261,7 @@
         {"id":"VE2","word":"وبر","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"يرد ويحكّم"},
         {"id":"VF2","word":"حكم","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"في الضيعة بيت من قصب"},
         {"id":"VG2","word":"ملك","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"حب الملوك شعب أمريكي"},
-        {"id":"VH2","word":"فصل","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"فاصل"},
+        {"id":"VH2","word":"فصل","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"فاصل"}
     ]},
     {"id":64,"title":"الأدب والشعر","subtitle":"جماليات اللغة",
      "difficulty":"hard","category":"science",
@@ -1292,7 +1288,7 @@
         {"id":"VE2","word":"لقف","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"التقط بسرعة"},
         {"id":"VF2","word":"ركل","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"رفس"},
         {"id":"VG2","word":"قمح","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"حبوب الخبز"},
-        {"id":"VH2","word":"فول","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"حبوب مغذية"},
+        {"id":"VH2","word":"فول","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"حبوب مغذية"}
     ]},
     {"id":65,"title":"الرياضة والبطولة","subtitle":"روح المنافسة",
      "difficulty":"hard","category":"sports",
@@ -1319,7 +1315,7 @@
         {"id":"VE2","word":"طار","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"رفرف"},
         {"id":"VF2","word":"ركب","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"علا الدابة"},
         {"id":"VG2","word":"دهر","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"زمن"},
-        {"id":"VH2","word":"صدق","direction":"V","clueRow":5,"clueCol":7,"clue":"قال الحقيقة","length":3},
+        {"id":"VH2","word":"صدق","direction":"V","clueRow":5,"clueCol":7,"clue":"قال الحقيقة","length":3}
     ]},
     {"id":66,"title":"الدين والروحانيات","subtitle":"إيمان وعبادة",
      "difficulty":"hard","category":"religion",
@@ -1346,7 +1342,7 @@
         {"id":"VE2","word":"خشع","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"خضع"},
         {"id":"VF2","word":"تقى","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"خاف الله"},
         {"id":"VG2","word":"حلم","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"رأى في النوم"},
-        {"id":"VH2","word":"صدق","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"قال الحقيقة"},
+        {"id":"VH2","word":"صدق","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"قال الحقيقة"}
     ]},
     {"id":67,"title":"الطبيعة والنباتات","subtitle":"عالم الأشجار",
      "difficulty":"hard","category":"nature",
@@ -1373,7 +1369,7 @@
         {"id":"VE2","word":"قطف","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"جني"},
         {"id":"VF2","word":"زيت","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"عصارة الزيتون"},
         {"id":"VG2","word":"عطر","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"رائحة الورود"},
-        {"id":"VH2","word":"تراب","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"ثَرى"},
+        {"id":"VH2","word":"تراب","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"ثَرى"}
     ]},
     {"id":68,"title":"الحياة اليومية","subtitle":"عادات وتقاليد",
      "difficulty":"hard","category":"daily",
@@ -1400,7 +1396,7 @@
         {"id":"VE2","word":"وقف","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"قام واعتدل"},
         {"id":"VF2","word":"حكى","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"روى القصة"},
         {"id":"VG2","word":"خرج","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"غادر المكان"},
-        {"id":"VH2","word":"دخل","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"ولج"},
+        {"id":"VH2","word":"دخل","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"ولج"}
     ]},
     {"id":69,"title":"الجغرافيا الطبيعية","subtitle":"الأرض والمناخ",
      "difficulty":"hard","category":"geography",
@@ -1427,7 +1423,7 @@
         {"id":"VE2","word":"سهل","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"أرض مسطحة"},
         {"id":"VF2","word":"ضباب","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"بخار كثيف"},
         {"id":"VG2","word":"برد","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"انخفاض الحرارة"},
-        {"id":"VH2","word":"قطر","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"سال"},
+        {"id":"VH2","word":"قطر","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"سال"}
     ]},
     {"id":70,"title":"المدينة والعمران","subtitle":"التطور الحضري",
      "difficulty":"hard","category":"daily",
@@ -1454,7 +1450,7 @@
         {"id":"VE2","word":"حافلة","direction":"V","clueRow":4,"clueCol":4,"length":3,"clue":"وسيلة النقل"},
         {"id":"VF2","word":"ميناء","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"مرسى السفن"},
         {"id":"VG2","word":"مطار","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"مكان الطائرات"},
-        {"id":"VH2","word":"فندق","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"مكان الإقامة"},
+        {"id":"VH2","word":"فندق","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"مكان الإقامة"}
     ]},
 {
   "id": 71,
@@ -1512,6 +1508,6 @@
     { "id": "V17", "word": "وهن", "direction": "V", "clueRow": 6, "clueCol": 8, "length": 3, "clue": "ضعف" },
 
     { "id": "V18", "word": "جوبا", "direction": "V", "clueRow": 8, "clueCol": 10, "length": 4, "clue": "ملك قديم" },
-    { "id": "V19", "word": "نها", "direction": "V", "clueRow": 8, "clueCol": 12, "length": 3, "clue": "عقل" },
+    { "id": "V19", "word": "نها", "direction": "V", "clueRow": 8, "clueCol": 12, "length": 3, "clue": "عقل" }
   ]}
 ]
