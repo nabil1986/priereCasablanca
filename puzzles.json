@@ -1451,40 +1451,6 @@
         {"id":"VF2","word":"ميناء","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"مرسى السفن"},
         {"id":"VG2","word":"مطار","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"مكان الطائرات"},
         {"id":"VH2","word":"فندق","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"مكان الإقامة"}
-    ]},
-{
-  "id": 71,
-  "title": "شبكة احترافية كبرى",
-  "subtitle": "تحدي صعب",
-  "difficulty": "pro",
-  "category": "general",
-  "gridRows": 9,
-  "gridCols": 9,
-  "gridSize": 9,
-  "words": [
-    {"id":"H1","word":"مشرع","direction":"H","clueRow":0,"clueCol":0,"length":4,"clue":"ضد مغلق"},
-    {"id":"H2","word":"حسنى","direction":"H","clueRow":0,"clueCol":5,"length":4,"clue":"الأجمل"},
-    {"id":"H3","word":"ذوو","direction":"H","clueRow":4,"clueCol":0,"length":3,"clue":"أصحاب"},
-    {"id":"H4","word":"كبد","direction":"H","clueRow":4,"clueCol":5,"length":3,"clue":"المشقة"},
-    {"id":"H5","word":"بتول","direction":"H","clueRow":8,"clueCol":0,"length":4,"clue":"عذراء"},
-    {"id":"H6","word":"السد","direction":"H","clueRow":8,"clueCol":5,"length":4,"clue":"حاجز"},
-    {"id":"V1","word":"شمس","direction":"V","clueRow":1,"clueCol":0,"length":3,"clue":"نجم"},
-    {"id":"V2","word":"ريح","direction":"V","clueRow":1,"clueCol":1,"length":3,"clue":"هواء"},
-    {"id":"V3","word":"علم","direction":"V","clueRow":1,"clueCol":2,"length":3,"clue":"معرفة"},
-    {"id":"V4","word":"نور","direction":"V","clueRow":1,"clueCol":3,"length":3,"clue":"ضوء"},
-    {"id":"V5","word":"منذ","direction":"V","clueRow":1,"clueCol":5,"length":3,"clue":"حرف جر"},
-    {"id":"V6","word":"حسن","direction":"V","clueRow":1,"clueCol":6,"length":3,"clue":"جمال"},
-    {"id":"V7","word":"قلم","direction":"V","clueRow":1,"clueCol":7,"length":3,"clue":"أداة كتابة"},
-    {"id":"V8","word":"كتب","direction":"V","clueRow":1,"clueCol":8,"length":3,"clue":"ألّف"},
-    {"id":"V9","word":"يد","direction":"V","clueRow":5,"clueCol":0,"length":2,"clue":"عضو"},
-    {"id":"V10","word":"عين","direction":"V","clueRow":5,"clueCol":1,"length":3,"clue":"تبصر"},
-    {"id":"V11","word":"راس","direction":"V","clueRow":5,"clueCol":2,"length":3,"clue":"جزء من الجسم"},
-    {"id":"V12","word":"سيف","direction":"V","clueRow":5,"clueCol":3,"length":3,"clue":"سلاح"},
-    {"id":"V13","word":"قمر","direction":"V","clueRow":5,"clueCol":5,"length":3,"clue":"تابع الأرض"},
-    {"id":"V14","word":"ليل","direction":"V","clueRow":5,"clueCol":6,"length":3,"clue":"عكس نهار"},
-    {"id":"V15","word":"بحر","direction":"V","clueRow":5,"clueCol":7,"length":3,"clue":"ماء كثير"},
-    {"id":"V16","word":"دمى","direction":"V","clueRow":5,"clueCol":8,"length":3,"clue":"تماثيل"}
-  ]
-}
+    ]}
 ]
    
