@@ -1454,32 +1454,50 @@
     ]},
 {
   "id":71,
-  "title":"شبكة احترافية",
-  "subtitle":"بدون فراغات",
+  "title":"شبكة احترافية كبرى",
+  "subtitle":"تحدي صعب",
   "difficulty":"pro",
   "category":"general",
-  "gridRows":9,
-  "gridCols":8,
-  "gridSize":8,
+  "gridRows":11,
+  "gridCols":11,
+  "gridSize":11,
   "words":[
-    {"id":"H1","word":"مشرعنا","direction":"H","clueRow":0,"clueCol":0,"length":8,"clue":"واضح ومفتوح"},
-    {"id":"H2","word":"نهاوند","direction":"H","clueRow":1,"clueCol":0,"length":7,"clue":"مدينة إيرانية"},
-    {"id":"H3","word":"سميرنا","direction":"H","clueRow":2,"clueCol":0,"length":7,"clue":"صديق وجليس"},
-    {"id":"H4","word":"الكبدية","direction":"H","clueRow":3,"clueCol":0,"length":8,"clue":"مرتبطة بالمشقة"},
-    {"id":"H5","word":"دميمكم","direction":"H","clueRow":4,"clueCol":0,"length":7,"clue":"غير جميل"},
-    {"id":"H6","word":"لمامانا","direction":"H","clueRow":5,"clueCol":0,"length":8,"clue":"نادرا جدا"},
-    {"id":"H7","word":"بتولكم","direction":"H","clueRow":6,"clueCol":0,"length":7,"clue":"عذراء"},
-    {"id":"H8","word":"السدود","direction":"H","clueRow":7,"clueCol":0,"length":7,"clue":"حواجز مائية"},
-    {"id":"H9","word":"سواسية","direction":"H","clueRow":8,"clueCol":0,"length":7,"clue":"متساوون"},
 
-    {"id":"V1","word":"منسدل","direction":"V","clueRow":0,"clueCol":0,"length":6,"clue":"نازل"},
-    {"id":"V2","word":"حياة","direction":"V","clueRow":0,"clueCol":1,"length":5,"clue":"عكس موت"},
-    {"id":"V3","word":"سير","direction":"V","clueRow":0,"clueCol":2,"length":3,"clue":"مشي"},
-    {"id":"V4","word":"رمال","direction":"V","clueRow":0,"clueCol":3,"length":5,"clue":"في الصحراء"},
-    {"id":"V5","word":"علم","direction":"V","clueRow":0,"clueCol":4,"length":3,"clue":"معرفة"},
-    {"id":"V6","word":"نور","direction":"V","clueRow":0,"clueCol":5,"length":3,"clue":"ضوء"},
-    {"id":"V7","word":"ندى","direction":"V","clueRow":0,"clueCol":6,"length":3,"clue":"ماء الصباح"},
-    {"id":"V8","word":"ريح","direction":"V","clueRow":0,"clueCol":7,"length":4,"clue":"هواء متحرك"}
+    {"id":"H1","word":"مشرع","direction":"H","clueRow":0,"clueCol":0,"length":5,"clue":"ضد مغلق"},
+    {"id":"H2","word":"نهاوند","direction":"H","clueRow":0,"clueCol":5,"length":6,"clue":"مدينة إيرانية"},
+
+    {"id":"H3","word":"نسيب","direction":"H","clueRow":2,"clueCol":0,"length":5,"clue":"غزل"},
+    {"id":"H4","word":"سمير","direction":"H","clueRow":2,"clueCol":6,"length":5,"clue":"جليس وأنيس"},
+
+    {"id":"H5","word":"ذوو","direction":"H","clueRow":4,"clueCol":0,"length":3,"clue":"أصحاب"},
+    {"id":"H6","word":"الكبد","direction":"H","clueRow":4,"clueCol":5,"length":5,"clue":"المشقة"},
+
+    {"id":"H7","word":"دميم","direction":"H","clueRow":6,"clueCol":0,"length":5,"clue":"ضد وسيم"},
+    {"id":"H8","word":"لماما","direction":"H","clueRow":6,"clueCol":6,"length":5,"clue":"نادرا"},
+
+    {"id":"H9","word":"بتول","direction":"H","clueRow":8,"clueCol":0,"length":5,"clue":"عذراء"},
+    {"id":"H10","word":"السد","direction":"H","clueRow":8,"clueCol":6,"length":4,"clue":"حاجز"},
+
+    {"id":"H11","word":"السموأل","direction":"H","clueRow":10,"clueCol":0,"length":7,"clue":"مثال في الوفاء"},
+
+    {"id":"V1","word":"منذ","direction":"V","clueRow":0,"clueCol":0,"length":3,"clue":"حرف جر"},
+    {"id":"V2","word":"شمس","direction":"V","clueRow":0,"clueCol":1,"length":4,"clue":"نجم"},
+    {"id":"V3","word":"ريح","direction":"V","clueRow":0,"clueCol":2,"length":4,"clue":"هواء"},
+    {"id":"V4","word":"علم","direction":"V","clueRow":0,"clueCol":3,"length":3,"clue":"معرفة"},
+    {"id":"V5","word":"نور","direction":"V","clueRow":0,"clueCol":4,"length":3,"clue":"ضوء"},
+
+    {"id":"V6","word":"حسن","direction":"V","clueRow":0,"clueCol":6,"length":4,"clue":"جمال"},
+    {"id":"V7","word":"قلم","direction":"V","clueRow":0,"clueCol":7,"length":3,"clue":"أداة كتابة"},
+    {"id":"V8","word":"كتاب","direction":"V","clueRow":0,"clueCol":8,"length":5,"clue":"مؤلف"},
+    {"id":"V9","word":"بحر","direction":"V","clueRow":0,"clueCol":9,"length":3,"clue":"ماء كثير"},
+    {"id":"V10","word":"ليل","direction":"V","clueRow":0,"clueCol":10,"length":3,"clue":"عكس نهار"},
+
+    {"id":"V11","word":"يد","direction":"V","clueRow":4,"clueCol":0,"length":2,"clue":"عضو"},
+    {"id":"V12","word":"عين","direction":"V","clueRow":4,"clueCol":2,"length":3,"clue":"تبصر"},
+    {"id":"V13","word":"راس","direction":"V","clueRow":4,"clueCol":5,"length":3,"clue":"جزء من الجسم"},
+    {"id":"V14","word":"سيف","direction":"V","clueRow":4,"clueCol":7,"length":3,"clue":"سلاح"},
+    {"id":"V15","word":"قمر","direction":"V","clueRow":4,"clueCol":9,"length":3,"clue":"تابع الأرض"}
+
   ]
 }
 ]
