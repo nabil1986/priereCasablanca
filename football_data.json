@@ -5,14 +5,14 @@
       "flag": "🇲🇦",
       "name": { "fr": "Maroc", "ar": "المغرب", "en": "Morocco" },
       "stadiums": [
-        { "id": "ma1", "name": "Stade Mohammed V",           "city": "Casablanca" },
-        { "id": "ma2", "name": "Grand Stade de Tanger",      "city": "Tanger" },
-        { "id": "ma3", "name": "Stade Moulay Abdallah",      "city": "Rabat" },
-        { "id": "ma4", "name": "Stade Adrar",                "city": "Agadir" },
-        { "id": "ma5", "name": "Grand Stade de Marrakech",   "city": "Marrakech" },
-        { "id": "ma6", "name": "Stade de Fès",               "city": "Fès" },
-        { "id": "ma7", "name": "Stade Ibn Batouta",          "city": "Tanger" },
-        { "id": "ma8", "name": "Complexe Sportif de Meknès", "city": "Meknès" }
+        { "id": "ma1", "name": "Stade Mohammed V",           "city": "Casablanca",  "lat": 33.5731,  "lng": -7.6122  },
+        { "id": "ma2", "name": "Grand Stade de Tanger",      "city": "Tanger",       "lat": 35.7731,  "lng": -5.8384  },
+        { "id": "ma3", "name": "Stade Moulay Abdallah",      "city": "Rabat",        "lat": 33.9716,  "lng": -6.8498  },
+        { "id": "ma4", "name": "Stade Adrar",                "city": "Agadir",       "lat": 30.4218,  "lng": -9.5981  },
+        { "id": "ma5", "name": "Grand Stade de Marrakech",   "city": "Marrakech",    "lat": 31.6225,  "lng": -8.0083  },
+        { "id": "ma6", "name": "Stade de Fès",               "city": "Fès",          "lat": 34.0181,  "lng": -5.0078  },
+        { "id": "ma7", "name": "Stade Ibn Batouta",          "city": "Tanger",       "lat": 35.7603,  "lng": -5.9001  },
+        { "id": "ma8", "name": "Complexe Sportif de Meknès", "city": "Meknès",       "lat": 33.8935,  "lng": -5.5473  }
       ],
       "teams": [
         { "id": "ma_t1",  "name": "Raja Club Athletic" },
@@ -34,12 +34,12 @@
       "flag": "🇩🇿",
       "name": { "fr": "Algérie", "ar": "الجزائر", "en": "Algeria" },
       "stadiums": [
-        { "id": "dz1", "name": "Stade du 5 Juillet 1962",    "city": "Alger" },
-        { "id": "dz2", "name": "Stade Nelson Mandela",       "city": "Baraki" },
-        { "id": "dz3", "name": "Stade Miloud Hadefi",        "city": "Oran" },
-        { "id": "dz4", "name": "Stade 19 mai 1956",          "city": "Annaba" },
-        { "id": "dz5", "name": "Stade Chahid Hamlaoui",      "city": "Constantine" },
-        { "id": "dz6", "name": "Stade du 1er Novembre",      "city": "Tizi Ouzou" }
+        { "id": "dz1", "name": "Stade du 5 Juillet 1962",    "city": "Alger",       "lat": 36.7372,  "lng": 3.0569   },
+        { "id": "dz2", "name": "Stade Nelson Mandela",       "city": "Baraki",       "lat": 36.6680,  "lng": 3.1000   },
+        { "id": "dz3", "name": "Stade Miloud Hadefi",        "city": "Oran",         "lat": 35.7081,  "lng": -0.6409  },
+        { "id": "dz4", "name": "Stade 19 mai 1956",          "city": "Annaba",       "lat": 36.9000,  "lng": 7.7667   },
+        { "id": "dz5", "name": "Stade Chahid Hamlaoui",      "city": "Constantine",  "lat": 36.3650,  "lng": 6.6147   },
+        { "id": "dz6", "name": "Stade du 1er Novembre",      "city": "Tizi Ouzou",   "lat": 36.7169,  "lng": 4.0497   }
       ],
       "teams": [
         { "id": "dz_t1",  "name": "CR Belouizdad" },
@@ -59,11 +59,11 @@
       "flag": "🇹🇳",
       "name": { "fr": "Tunisie", "ar": "تونس", "en": "Tunisia" },
       "stadiums": [
-        { "id": "tn1", "name": "Stade Olympique de Radès",   "city": "Radès" },
-        { "id": "tn2", "name": "Stade Hamadi Agrebi",        "city": "Radès" },
-        { "id": "tn3", "name": "Stade Chedly Zouiten",       "city": "Tunis" },
-        { "id": "tn4", "name": "Stade Taïeb Mhiri",          "city": "Sfax" },
-        { "id": "tn5", "name": "Stade Municipal de Sousse",  "city": "Sousse" }
+        { "id": "tn1", "name": "Stade Olympique de Radès",   "city": "Radès",       "lat": 36.7664,  "lng": 10.2731  },
+        { "id": "tn2", "name": "Stade Hamadi Agrebi",        "city": "Radès",        "lat": 36.7610,  "lng": 10.2784  },
+        { "id": "tn3", "name": "Stade Chedly Zouiten",       "city": "Tunis",        "lat": 36.8190,  "lng": 10.1658  },
+        { "id": "tn4", "name": "Stade Taïeb Mhiri",          "city": "Sfax",         "lat": 34.7406,  "lng": 10.7603  },
+        { "id": "tn5", "name": "Stade Municipal de Sousse",  "city": "Sousse",       "lat": 35.8288,  "lng": 10.6356  }
       ],
       "teams": [
         { "id": "tn_t1", "name": "Espérance Sportive de Tunis" },
@@ -80,10 +80,10 @@
       "flag": "🇪🇬",
       "name": { "fr": "Égypte", "ar": "مصر", "en": "Egypt" },
       "stadiums": [
-        { "id": "eg1", "name": "Stade International du Caire", "city": "Le Caire" },
-        { "id": "eg2", "name": "Stade du 30 Juin",             "city": "Le Caire" },
-        { "id": "eg3", "name": "Stade Borg El Arab",           "city": "Alexandrie" },
-        { "id": "eg4", "name": "Stade de Port-Saïd",           "city": "Port-Saïd" }
+        { "id": "eg1", "name": "Stade International du Caire", "city": "Le Caire",  "lat": 30.0626,  "lng": 31.2497  },
+        { "id": "eg2", "name": "Stade du 30 Juin",             "city": "Le Caire",  "lat": 30.0500,  "lng": 31.2667  },
+        { "id": "eg3", "name": "Stade Borg El Arab",           "city": "Alexandrie","lat": 30.8167,  "lng": 29.7167  },
+        { "id": "eg4", "name": "Stade de Port-Saïd",           "city": "Port-Saïd", "lat": 31.2653,  "lng": 32.3019  }
       ],
       "teams": [
         { "id": "eg_t1", "name": "Al Ahly SC" },
@@ -99,10 +99,10 @@
       "flag": "🇸🇦",
       "name": { "fr": "Arabie Saoudite", "ar": "السعودية", "en": "Saudi Arabia" },
       "stadiums": [
-        { "id": "sa1", "name": "King Fahd International Stadium", "city": "Riyad" },
-        { "id": "sa2", "name": "King Abdullah Sports City",       "city": "Djeddah" },
-        { "id": "sa3", "name": "Al-Awwal Park",                   "city": "Riyad" },
-        { "id": "sa4", "name": "Mrsool Park",                     "city": "Riyad" }
+        { "id": "sa1", "name": "King Fahd International Stadium", "city": "Riyad",   "lat": 24.7747,  "lng": 46.7172  },
+        { "id": "sa2", "name": "King Abdullah Sports City",       "city": "Djeddah", "lat": 21.6167,  "lng": 39.1500  },
+        { "id": "sa3", "name": "Al-Awwal Park",                   "city": "Riyad",   "lat": 24.8011,  "lng": 46.7406  },
+        { "id": "sa4", "name": "Mrsool Park",                     "city": "Riyad",   "lat": 24.7919,  "lng": 46.7400  }
       ],
       "teams": [
         { "id": "sa_t1", "name": "Al Hilal FC" },
@@ -118,14 +118,14 @@
       "flag": "🇫🇷",
       "name": { "fr": "France", "ar": "فرنسا", "en": "France" },
       "stadiums": [
-        { "id": "fr1", "name": "Parc des Princes",          "city": "Paris" },
-        { "id": "fr2", "name": "Orange Vélodrome",          "city": "Marseille" },
-        { "id": "fr3", "name": "Groupama Stadium",          "city": "Lyon" },
-        { "id": "fr4", "name": "Allianz Riviera",           "city": "Nice" },
-        { "id": "fr5", "name": "Stade Pierre-Mauroy",       "city": "Lille" },
-        { "id": "fr6", "name": "Stade de la Meinau",        "city": "Strasbourg" },
-        { "id": "fr7", "name": "Stade de France",           "city": "Saint-Denis" },
-        { "id": "fr8", "name": "Roazhon Park",              "city": "Rennes" }
+        { "id": "fr1", "name": "Parc des Princes",          "city": "Paris",       "lat": 48.8414,  "lng": 2.2530   },
+        { "id": "fr2", "name": "Orange Vélodrome",          "city": "Marseille",   "lat": 43.2697,  "lng": 5.3959   },
+        { "id": "fr3", "name": "Groupama Stadium",          "city": "Lyon",        "lat": 45.7653,  "lng": 4.9819   },
+        { "id": "fr4", "name": "Allianz Riviera",           "city": "Nice",        "lat": 43.7050,  "lng": 7.1925   },
+        { "id": "fr5", "name": "Stade Pierre-Mauroy",       "city": "Lille",       "lat": 50.6122,  "lng": 3.1303   },
+        { "id": "fr6", "name": "Stade de la Meinau",        "city": "Strasbourg",  "lat": 48.5597,  "lng": 7.7522   },
+        { "id": "fr7", "name": "Stade de France",           "city": "Saint-Denis", "lat": 48.9244,  "lng": 2.3601   },
+        { "id": "fr8", "name": "Roazhon Park",              "city": "Rennes",      "lat": 48.1075,  "lng": -1.7147  }
       ],
       "teams": [
         { "id": "fr_t1",  "name": "Paris Saint-Germain" },
@@ -145,12 +145,12 @@
       "flag": "🇪🇸",
       "name": { "fr": "Espagne", "ar": "إسبانيا", "en": "Spain" },
       "stadiums": [
-        { "id": "es1", "name": "Spotify Camp Nou",              "city": "Barcelone" },
-        { "id": "es2", "name": "Santiago Bernabéu",             "city": "Madrid" },
-        { "id": "es3", "name": "Cívitas Metropolitano",         "city": "Madrid" },
-        { "id": "es4", "name": "Estadio Ramón Sánchez-Pizjuán", "city": "Séville" },
-        { "id": "es5", "name": "Mestalla",                      "city": "Valence" },
-        { "id": "es6", "name": "San Mamés",                     "city": "Bilbao" }
+        { "id": "es1", "name": "Spotify Camp Nou",               "city": "Barcelone", "lat": 41.3809,  "lng": 2.1228   },
+        { "id": "es2", "name": "Santiago Bernabéu",              "city": "Madrid",    "lat": 40.4531,  "lng": -3.6883  },
+        { "id": "es3", "name": "Cívitas Metropolitano",          "city": "Madrid",    "lat": 40.4361,  "lng": -3.5994  },
+        { "id": "es4", "name": "Estadio Ramón Sánchez-Pizjuán", "city": "Séville",   "lat": 37.3839,  "lng": -5.9706  },
+        { "id": "es5", "name": "Mestalla",                       "city": "Valence",   "lat": 39.4747,  "lng": -0.3581  },
+        { "id": "es6", "name": "San Mamés",                      "city": "Bilbao",    "lat": 43.2642,  "lng": -2.9497  }
       ],
       "teams": [
         { "id": "es_t1", "name": "FC Barcelona" },
@@ -169,14 +169,14 @@
       "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "name": { "fr": "Angleterre", "ar": "إنجلترا", "en": "England" },
       "stadiums": [
-        { "id": "gb1", "name": "Wembley Stadium",               "city": "Londres" },
-        { "id": "gb2", "name": "Old Trafford",                  "city": "Manchester" },
-        { "id": "gb3", "name": "Anfield",                       "city": "Liverpool" },
-        { "id": "gb4", "name": "Emirates Stadium",              "city": "Londres" },
-        { "id": "gb5", "name": "Stamford Bridge",               "city": "Londres" },
-        { "id": "gb6", "name": "Etihad Stadium",                "city": "Manchester" },
-        { "id": "gb7", "name": "Tottenham Hotspur Stadium",     "city": "Londres" },
-        { "id": "gb8", "name": "St. James' Park",               "city": "Newcastle" }
+        { "id": "gb1", "name": "Wembley Stadium",               "city": "Londres",    "lat": 51.5560,  "lng": -0.2796  },
+        { "id": "gb2", "name": "Old Trafford",                  "city": "Manchester", "lat": 53.4631,  "lng": -2.2913  },
+        { "id": "gb3", "name": "Anfield",                       "city": "Liverpool",  "lat": 53.4308,  "lng": -2.9608  },
+        { "id": "gb4", "name": "Emirates Stadium",              "city": "Londres",    "lat": 51.5549,  "lng": -0.1084  },
+        { "id": "gb5", "name": "Stamford Bridge",               "city": "Londres",    "lat": 51.4816,  "lng": -0.1909  },
+        { "id": "gb6", "name": "Etihad Stadium",                "city": "Manchester", "lat": 53.4831,  "lng": -2.2003  },
+        { "id": "gb7", "name": "Tottenham Hotspur Stadium",     "city": "Londres",    "lat": 51.6043,  "lng": -0.0665  },
+        { "id": "gb8", "name": "St. James' Park",               "city": "Newcastle",  "lat": 54.9756,  "lng": -1.6217  }
       ],
       "teams": [
         { "id": "gb_t1", "name": "Manchester United" },
@@ -195,12 +195,12 @@
       "flag": "🇩🇪",
       "name": { "fr": "Allemagne", "ar": "ألمانيا", "en": "Germany" },
       "stadiums": [
-        { "id": "de1", "name": "Allianz Arena",      "city": "Munich" },
-        { "id": "de2", "name": "Signal Iduna Park",  "city": "Dortmund" },
-        { "id": "de3", "name": "Olympiastadion",     "city": "Berlin" },
-        { "id": "de4", "name": "Volksparkstadion",   "city": "Hambourg" },
-        { "id": "de5", "name": "Red Bull Arena",     "city": "Leipzig" },
-        { "id": "de6", "name": "BayArena",           "city": "Leverkusen" }
+        { "id": "de1", "name": "Allianz Arena",      "city": "Munich",     "lat": 48.2188,  "lng": 11.6247  },
+        { "id": "de2", "name": "Signal Iduna Park",  "city": "Dortmund",   "lat": 51.4926,  "lng": 7.4519   },
+        { "id": "de3", "name": "Olympiastadion",     "city": "Berlin",     "lat": 52.5147,  "lng": 13.2394  },
+        { "id": "de4", "name": "Volksparkstadion",   "city": "Hambourg",   "lat": 53.5875,  "lng": 9.8983   },
+        { "id": "de5", "name": "Red Bull Arena",     "city": "Leipzig",    "lat": 51.3456,  "lng": 12.3483  },
+        { "id": "de6", "name": "BayArena",           "city": "Leverkusen", "lat": 51.0383,  "lng": 7.0022   }
       ],
       "teams": [
         { "id": "de_t1", "name": "Bayern Munich" },
@@ -216,11 +216,11 @@
       "flag": "🇮🇹",
       "name": { "fr": "Italie", "ar": "إيطاليا", "en": "Italy" },
       "stadiums": [
-        { "id": "it1", "name": "San Siro",                            "city": "Milan" },
-        { "id": "it2", "name": "Stadio Olimpico",                     "city": "Rome" },
-        { "id": "it3", "name": "Juventus Stadium",                    "city": "Turin" },
-        { "id": "it4", "name": "Stadio Diego Armando Maradona",       "city": "Naples" },
-        { "id": "it5", "name": "Stadio Artemio Franchi",              "city": "Florence" }
+        { "id": "it1", "name": "San Siro",                            "city": "Milan",    "lat": 45.4781,  "lng": 9.1240   },
+        { "id": "it2", "name": "Stadio Olimpico",                     "city": "Rome",     "lat": 41.9339,  "lng": 12.4547  },
+        { "id": "it3", "name": "Juventus Stadium",                    "city": "Turin",    "lat": 45.1097,  "lng": 7.6411   },
+        { "id": "it4", "name": "Stadio Diego Armando Maradona",       "city": "Naples",   "lat": 40.8278,  "lng": 14.1931  },
+        { "id": "it5", "name": "Stadio Artemio Franchi",              "city": "Florence", "lat": 43.7808,  "lng": 11.2822  }
       ],
       "teams": [
         { "id": "it_t1", "name": "Juventus FC" },
@@ -238,10 +238,10 @@
       "flag": "🇵🇹",
       "name": { "fr": "Portugal", "ar": "البرتغال", "en": "Portugal" },
       "stadiums": [
-        { "id": "pt1", "name": "Estádio da Luz",               "city": "Lisbonne" },
-        { "id": "pt2", "name": "Estádio José Alvalade",        "city": "Lisbonne" },
-        { "id": "pt3", "name": "Estádio do Dragão",            "city": "Porto" },
-        { "id": "pt4", "name": "Estádio Municipal de Braga",   "city": "Braga" }
+        { "id": "pt1", "name": "Estádio da Luz",               "city": "Lisbonne", "lat": 38.7522,  "lng": -9.1847  },
+        { "id": "pt2", "name": "Estádio José Alvalade",        "city": "Lisbonne", "lat": 38.7612,  "lng": -9.1606  },
+        { "id": "pt3", "name": "Estádio do Dragão",            "city": "Porto",    "lat": 41.1614,  "lng": -8.5833  },
+        { "id": "pt4", "name": "Estádio Municipal de Braga",   "city": "Braga",    "lat": 41.5667,  "lng": -8.4006  }
       ],
       "teams": [
         { "id": "pt_t1", "name": "SL Benfica" },
@@ -256,10 +256,10 @@
       "flag": "🇹🇷",
       "name": { "fr": "Turquie", "ar": "تركيا", "en": "Turkey" },
       "stadiums": [
-        { "id": "tr1", "name": "Vodafone Park",              "city": "Istanbul" },
-        { "id": "tr2", "name": "Türk Telekom Stadyumu",      "city": "Istanbul" },
-        { "id": "tr3", "name": "Şükrü Saracoğlu",           "city": "Istanbul" },
-        { "id": "tr4", "name": "Atatürk Olimpiyat Stadyumu", "city": "Istanbul" }
+        { "id": "tr1", "name": "Vodafone Park",               "city": "Istanbul", "lat": 41.0272,  "lng": 29.0100  },
+        { "id": "tr2", "name": "Türk Telekom Stadyumu",       "city": "Istanbul", "lat": 41.1044,  "lng": 29.0133  },
+        { "id": "tr3", "name": "Şükrü Saracoğlu",            "city": "Istanbul", "lat": 40.9742,  "lng": 29.0453  },
+        { "id": "tr4", "name": "Atatürk Olimpiyat Stadyumu", "city": "Istanbul", "lat": 41.0767,  "lng": 28.7344  }
       ],
       "teams": [
         { "id": "tr_t1", "name": "Galatasaray SK" },
@@ -274,9 +274,9 @@
       "flag": "🇦🇷",
       "name": { "fr": "Argentine", "ar": "الأرجنتين", "en": "Argentina" },
       "stadiums": [
-        { "id": "ar1", "name": "Estadio Monumental",           "city": "Buenos Aires" },
-        { "id": "ar2", "name": "La Bombonera",                 "city": "Buenos Aires" },
-        { "id": "ar3", "name": "Estadio Mario Alberto Kempes", "city": "Córdoba" }
+        { "id": "ar1", "name": "Estadio Monumental",           "city": "Buenos Aires", "lat": -34.5453, "lng": -58.4497 },
+        { "id": "ar2", "name": "La Bombonera",                 "city": "Buenos Aires", "lat": -34.6358, "lng": -58.3647 },
+        { "id": "ar3", "name": "Estadio Mario Alberto Kempes", "city": "Córdoba",      "lat": -31.4039, "lng": -64.1897 }
       ],
       "teams": [
         { "id": "ar_t1", "name": "Club Atlético River Plate" },
@@ -291,10 +291,10 @@
       "flag": "🇧🇷",
       "name": { "fr": "Brésil", "ar": "البرازيل", "en": "Brazil" },
       "stadiums": [
-        { "id": "br1", "name": "Maracanã",          "city": "Rio de Janeiro" },
-        { "id": "br2", "name": "Arena Corinthians", "city": "São Paulo" },
-        { "id": "br3", "name": "Allianz Parque",    "city": "São Paulo" },
-        { "id": "br4", "name": "Mineirão",          "city": "Belo Horizonte" }
+        { "id": "br1", "name": "Maracanã",          "city": "Rio de Janeiro",  "lat": -22.9122, "lng": -43.2302 },
+        { "id": "br2", "name": "Arena Corinthians", "city": "São Paulo",       "lat": -23.5453, "lng": -46.4736 },
+        { "id": "br3", "name": "Allianz Parque",    "city": "São Paulo",       "lat": -23.5272, "lng": -46.6781 },
+        { "id": "br4", "name": "Mineirão",          "city": "Belo Horizonte",  "lat": -19.8658, "lng": -43.9706 }
       ],
       "teams": [
         { "id": "br_t1", "name": "Flamengo" },
