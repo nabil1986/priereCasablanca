@@ -5,14 +5,14 @@
       "flag": "🇲🇦",
       "name": { "fr": "Maroc", "ar": "المغرب", "en": "Morocco" },
       "stadiums": [
-        { "id": "ma1", "name": "Stade Mohammed V",              "city": "Casablanca" },
-        { "id": "ma2", "name": "Grand Stade de Tanger",         "city": "Tanger" },
-        { "id": "ma3", "name": "Stade Moulay Abdallah",         "city": "Rabat" },
-        { "id": "ma4", "name": "Stade Adrar",                   "city": "Agadir" },
-        { "id": "ma5", "name": "Grand Stade de Marrakech",      "city": "Marrakech" },
-        { "id": "ma6", "name": "Stade de Fès",                  "city": "Fès" },
-        { "id": "ma7", "name": "Stade Ibn Batouta",             "city": "Tanger" },
-        { "id": "ma8", "name": "Complexe Sportif de Meknes",    "city": "Meknès" }
+        { "id": "ma1", "name": "Stade Mohammed V",           "city": "Casablanca" },
+        { "id": "ma2", "name": "Grand Stade de Tanger",      "city": "Tanger" },
+        { "id": "ma3", "name": "Stade Moulay Abdallah",      "city": "Rabat" },
+        { "id": "ma4", "name": "Stade Adrar",                "city": "Agadir" },
+        { "id": "ma5", "name": "Grand Stade de Marrakech",   "city": "Marrakech" },
+        { "id": "ma6", "name": "Stade de Fès",               "city": "Fès" },
+        { "id": "ma7", "name": "Stade Ibn Batouta",          "city": "Tanger" },
+        { "id": "ma8", "name": "Complexe Sportif de Meknès", "city": "Meknès" }
       ],
       "teams": [
         { "id": "ma_t1",  "name": "Raja Club Athletic" },
@@ -34,24 +34,24 @@
       "flag": "🇩🇿",
       "name": { "fr": "Algérie", "ar": "الجزائر", "en": "Algeria" },
       "stadiums": [
-        { "id": "dz1", "name": "Stade du 5 Juillet 1962",       "city": "Alger" },
-        { "id": "dz2", "name": "Stade Nelson Mandela",          "city": "Baraki" },
-        { "id": "dz3", "name": "Stade Miloud Hadefi",           "city": "Oran" },
-        { "id": "dz4", "name": "Stade 19 mai 1956",             "city": "Annaba" },
-        { "id": "dz5", "name": "Stade Chahid Hamlaoui",         "city": "Constantine" },
-        { "id": "dz6", "name": "Stade du 1er Novembre",         "city": "Tizi Ouzou" }
+        { "id": "dz1", "name": "Stade du 5 Juillet 1962",    "city": "Alger" },
+        { "id": "dz2", "name": "Stade Nelson Mandela",       "city": "Baraki" },
+        { "id": "dz3", "name": "Stade Miloud Hadefi",        "city": "Oran" },
+        { "id": "dz4", "name": "Stade 19 mai 1956",          "city": "Annaba" },
+        { "id": "dz5", "name": "Stade Chahid Hamlaoui",      "city": "Constantine" },
+        { "id": "dz6", "name": "Stade du 1er Novembre",      "city": "Tizi Ouzou" }
       ],
       "teams": [
-        { "id": "dz_t1", "name": "CR Belouizdad" },
-        { "id": "dz_t2", "name": "MC Alger" },
-        { "id": "dz_t3", "name": "USM Alger" },
-        { "id": "dz_t4", "name": "JS Kabylie" },
-        { "id": "dz_t5", "name": "ES Sétif" },
-        { "id": "dz_t6", "name": "MC Oran" },
-        { "id": "dz_t7", "name": "ASM Oran" },
-        { "id": "dz_t8", "name": "NA Hussein Dey" },
-        { "id": "dz_t9", "name": "Paradou AC" },
-        { "id": "dz_t10","name": "USM Bel Abbès" }
+        { "id": "dz_t1",  "name": "CR Belouizdad" },
+        { "id": "dz_t2",  "name": "MC Alger" },
+        { "id": "dz_t3",  "name": "USM Alger" },
+        { "id": "dz_t4",  "name": "JS Kabylie" },
+        { "id": "dz_t5",  "name": "ES Sétif" },
+        { "id": "dz_t6",  "name": "MC Oran" },
+        { "id": "dz_t7",  "name": "ASM Oran" },
+        { "id": "dz_t8",  "name": "NA Hussein Dey" },
+        { "id": "dz_t9",  "name": "Paradou AC" },
+        { "id": "dz_t10", "name": "USM Bel Abbès" }
       ]
     },
     {
@@ -59,11 +59,11 @@
       "flag": "🇹🇳",
       "name": { "fr": "Tunisie", "ar": "تونس", "en": "Tunisia" },
       "stadiums": [
-        { "id": "tn1", "name": "Stade Olympique de Rades",      "city": "Radès" },
-        { "id": "tn2", "name": "Stade Hamadi Agrebi",           "city": "Radès" },
-        { "id": "tn3", "name": "Stade Chedly Zouiten",          "city": "Tunis" },
-        { "id": "tn4", "name": "Stade Taïeb Mhiri",             "city": "Sfax" },
-        { "id": "tn5", "name": "Stade Municipal de Sousse",     "city": "Sousse" }
+        { "id": "tn1", "name": "Stade Olympique de Radès",   "city": "Radès" },
+        { "id": "tn2", "name": "Stade Hamadi Agrebi",        "city": "Radès" },
+        { "id": "tn3", "name": "Stade Chedly Zouiten",       "city": "Tunis" },
+        { "id": "tn4", "name": "Stade Taïeb Mhiri",          "city": "Sfax" },
+        { "id": "tn5", "name": "Stade Municipal de Sousse",  "city": "Sousse" }
       ],
       "teams": [
         { "id": "tn_t1", "name": "Espérance Sportive de Tunis" },
@@ -80,10 +80,10 @@
       "flag": "🇪🇬",
       "name": { "fr": "Égypte", "ar": "مصر", "en": "Egypt" },
       "stadiums": [
-        { "id": "eg1", "name": "Stade International du Caire",  "city": "Le Caire" },
-        { "id": "eg2", "name": "Stade du 30 Juin",              "city": "Le Caire" },
-        { "id": "eg3", "name": "Stade Borg El Arab",            "city": "Alexandrie" },
-        { "id": "eg4", "name": "Stade de Port-Saïd",            "city": "Port-Saïd" }
+        { "id": "eg1", "name": "Stade International du Caire", "city": "Le Caire" },
+        { "id": "eg2", "name": "Stade du 30 Juin",             "city": "Le Caire" },
+        { "id": "eg3", "name": "Stade Borg El Arab",           "city": "Alexandrie" },
+        { "id": "eg4", "name": "Stade de Port-Saïd",           "city": "Port-Saïd" }
       ],
       "teams": [
         { "id": "eg_t1", "name": "Al Ahly SC" },
@@ -99,11 +99,10 @@
       "flag": "🇸🇦",
       "name": { "fr": "Arabie Saoudite", "ar": "السعودية", "en": "Saudi Arabia" },
       "stadiums": [
-        { "id": "sa1", "name": "King Fahd International Stadium","city": "Riyad" },
-        { "id": "sa2", "name": "King Abdullah Sports City",      "city": "Djeddah" },
-        { "id": "sa3", "name": "King Saud University Stadium",   "city": "Riyad" },
-        { "id": "sa4", "name": "Al-Awwal Park",                  "city": "Riyad" },
-        { "id": "sa5", "name": "Mrsool Park",                    "city": "Riyad" }
+        { "id": "sa1", "name": "King Fahd International Stadium", "city": "Riyad" },
+        { "id": "sa2", "name": "King Abdullah Sports City",       "city": "Djeddah" },
+        { "id": "sa3", "name": "Al-Awwal Park",                   "city": "Riyad" },
+        { "id": "sa4", "name": "Mrsool Park",                     "city": "Riyad" }
       ],
       "teams": [
         { "id": "sa_t1", "name": "Al Hilal FC" },
@@ -119,26 +118,26 @@
       "flag": "🇫🇷",
       "name": { "fr": "France", "ar": "فرنسا", "en": "France" },
       "stadiums": [
-        { "id": "fr1", "name": "Parc des Princes",               "city": "Paris" },
-        { "id": "fr2", "name": "Orange Vélodrome",               "city": "Marseille" },
-        { "id": "fr3", "name": "Groupama Stadium",               "city": "Lyon" },
-        { "id": "fr4", "name": "Allianz Riviera",                "city": "Nice" },
-        { "id": "fr5", "name": "Stade Pierre-Mauroy",            "city": "Lille" },
-        { "id": "fr6", "name": "Stade de la Meinau",             "city": "Strasbourg" },
-        { "id": "fr7", "name": "Stade de France",                "city": "Saint-Denis" },
-        { "id": "fr8", "name": "Roazhon Park",                   "city": "Rennes" }
+        { "id": "fr1", "name": "Parc des Princes",          "city": "Paris" },
+        { "id": "fr2", "name": "Orange Vélodrome",          "city": "Marseille" },
+        { "id": "fr3", "name": "Groupama Stadium",          "city": "Lyon" },
+        { "id": "fr4", "name": "Allianz Riviera",           "city": "Nice" },
+        { "id": "fr5", "name": "Stade Pierre-Mauroy",       "city": "Lille" },
+        { "id": "fr6", "name": "Stade de la Meinau",        "city": "Strasbourg" },
+        { "id": "fr7", "name": "Stade de France",           "city": "Saint-Denis" },
+        { "id": "fr8", "name": "Roazhon Park",              "city": "Rennes" }
       ],
       "teams": [
-        { "id": "fr_t1", "name": "Paris Saint-Germain" },
-        { "id": "fr_t2", "name": "Olympique de Marseille" },
-        { "id": "fr_t3", "name": "Olympique Lyonnais" },
-        { "id": "fr_t4", "name": "OGC Nice" },
-        { "id": "fr_t5", "name": "LOSC Lille" },
-        { "id": "fr_t6", "name": "AS Monaco" },
-        { "id": "fr_t7", "name": "Stade Rennais FC" },
-        { "id": "fr_t8", "name": "RC Strasbourg" },
-        { "id": "fr_t9", "name": "Stade de Reims" },
-        { "id": "fr_t10","name": "Montpellier HSC" }
+        { "id": "fr_t1",  "name": "Paris Saint-Germain" },
+        { "id": "fr_t2",  "name": "Olympique de Marseille" },
+        { "id": "fr_t3",  "name": "Olympique Lyonnais" },
+        { "id": "fr_t4",  "name": "OGC Nice" },
+        { "id": "fr_t5",  "name": "LOSC Lille" },
+        { "id": "fr_t6",  "name": "AS Monaco" },
+        { "id": "fr_t7",  "name": "Stade Rennais FC" },
+        { "id": "fr_t8",  "name": "RC Strasbourg" },
+        { "id": "fr_t9",  "name": "Stade de Reims" },
+        { "id": "fr_t10", "name": "Montpellier HSC" }
       ]
     },
     {
@@ -146,13 +145,12 @@
       "flag": "🇪🇸",
       "name": { "fr": "Espagne", "ar": "إسبانيا", "en": "Spain" },
       "stadiums": [
-        { "id": "es1", "name": "Spotify Camp Nou",               "city": "Barcelone" },
-        { "id": "es2", "name": "Santiago Bernabéu",              "city": "Madrid" },
-        { "id": "es3", "name": "Cívitas Metropolitano",          "city": "Madrid" },
+        { "id": "es1", "name": "Spotify Camp Nou",              "city": "Barcelone" },
+        { "id": "es2", "name": "Santiago Bernabéu",             "city": "Madrid" },
+        { "id": "es3", "name": "Cívitas Metropolitano",         "city": "Madrid" },
         { "id": "es4", "name": "Estadio Ramón Sánchez-Pizjuán", "city": "Séville" },
-        { "id": "es5", "name": "Mestalla",                       "city": "Valence" },
-        { "id": "es6", "name": "San Mamés",                      "city": "Bilbao" },
-        { "id": "es7", "name": "Estadio de la Cerámica",         "city": "Villarreal" }
+        { "id": "es5", "name": "Mestalla",                      "city": "Valence" },
+        { "id": "es6", "name": "San Mamés",                     "city": "Bilbao" }
       ],
       "teams": [
         { "id": "es_t1", "name": "FC Barcelona" },
@@ -171,14 +169,14 @@
       "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "name": { "fr": "Angleterre", "ar": "إنجلترا", "en": "England" },
       "stadiums": [
-        { "id": "gb1", "name": "Wembley Stadium",                "city": "Londres" },
-        { "id": "gb2", "name": "Old Trafford",                   "city": "Manchester" },
-        { "id": "gb3", "name": "Anfield",                        "city": "Liverpool" },
-        { "id": "gb4", "name": "Emirates Stadium",               "city": "Londres" },
-        { "id": "gb5", "name": "Stamford Bridge",                "city": "Londres" },
-        { "id": "gb6", "name": "Etihad Stadium",                 "city": "Manchester" },
-        { "id": "gb7", "name": "Tottenham Hotspur Stadium",      "city": "Londres" },
-        { "id": "gb8", "name": "St. James' Park",                "city": "Newcastle" }
+        { "id": "gb1", "name": "Wembley Stadium",               "city": "Londres" },
+        { "id": "gb2", "name": "Old Trafford",                  "city": "Manchester" },
+        { "id": "gb3", "name": "Anfield",                       "city": "Liverpool" },
+        { "id": "gb4", "name": "Emirates Stadium",              "city": "Londres" },
+        { "id": "gb5", "name": "Stamford Bridge",               "city": "Londres" },
+        { "id": "gb6", "name": "Etihad Stadium",                "city": "Manchester" },
+        { "id": "gb7", "name": "Tottenham Hotspur Stadium",     "city": "Londres" },
+        { "id": "gb8", "name": "St. James' Park",               "city": "Newcastle" }
       ],
       "teams": [
         { "id": "gb_t1", "name": "Manchester United" },
@@ -197,12 +195,12 @@
       "flag": "🇩🇪",
       "name": { "fr": "Allemagne", "ar": "ألمانيا", "en": "Germany" },
       "stadiums": [
-        { "id": "de1", "name": "Allianz Arena",                  "city": "Munich" },
-        { "id": "de2", "name": "Signal Iduna Park",              "city": "Dortmund" },
-        { "id": "de3", "name": "Olympiastadion",                 "city": "Berlin" },
-        { "id": "de4", "name": "Volksparkstadion",               "city": "Hambourg" },
-        { "id": "de5", "name": "Red Bull Arena",                 "city": "Leipzig" },
-        { "id": "de6", "name": "BayArena",                       "city": "Leverkusen" }
+        { "id": "de1", "name": "Allianz Arena",      "city": "Munich" },
+        { "id": "de2", "name": "Signal Iduna Park",  "city": "Dortmund" },
+        { "id": "de3", "name": "Olympiastadion",     "city": "Berlin" },
+        { "id": "de4", "name": "Volksparkstadion",   "city": "Hambourg" },
+        { "id": "de5", "name": "Red Bull Arena",     "city": "Leipzig" },
+        { "id": "de6", "name": "BayArena",           "city": "Leverkusen" }
       ],
       "teams": [
         { "id": "de_t1", "name": "Bayern Munich" },
@@ -210,8 +208,7 @@
         { "id": "de_t3", "name": "Bayer 04 Leverkusen" },
         { "id": "de_t4", "name": "RB Leipzig" },
         { "id": "de_t5", "name": "Borussia Mönchengladbach" },
-        { "id": "de_t6", "name": "Eintracht Frankfurt" },
-        { "id": "de_t7", "name": "Schalke 04" }
+        { "id": "de_t6", "name": "Eintracht Frankfurt" }
       ]
     },
     {
@@ -219,12 +216,11 @@
       "flag": "🇮🇹",
       "name": { "fr": "Italie", "ar": "إيطاليا", "en": "Italy" },
       "stadiums": [
-        { "id": "it1", "name": "San Siro",                       "city": "Milan" },
-        { "id": "it2", "name": "Stadio Olimpico",                "city": "Rome" },
-        { "id": "it3", "name": "Juventus Stadium",               "city": "Turin" },
-        { "id": "it4", "name": "Stadio Diego Armando Maradona",  "city": "Naples" },
-        { "id": "it5", "name": "Stadio Luigi Ferraris",          "city": "Gênes" },
-        { "id": "it6", "name": "Stadio Artemio Franchi",         "city": "Florence" }
+        { "id": "it1", "name": "San Siro",                            "city": "Milan" },
+        { "id": "it2", "name": "Stadio Olimpico",                     "city": "Rome" },
+        { "id": "it3", "name": "Juventus Stadium",                    "city": "Turin" },
+        { "id": "it4", "name": "Stadio Diego Armando Maradona",       "city": "Naples" },
+        { "id": "it5", "name": "Stadio Artemio Franchi",              "city": "Florence" }
       ],
       "teams": [
         { "id": "it_t1", "name": "Juventus FC" },
@@ -242,10 +238,10 @@
       "flag": "🇵🇹",
       "name": { "fr": "Portugal", "ar": "البرتغال", "en": "Portugal" },
       "stadiums": [
-        { "id": "pt1", "name": "Estádio da Luz",                 "city": "Lisbonne" },
-        { "id": "pt2", "name": "Estádio José Alvalade",          "city": "Lisbonne" },
-        { "id": "pt3", "name": "Estádio do Dragão",              "city": "Porto" },
-        { "id": "pt4", "name": "Estádio Municipal de Braga",     "city": "Braga" }
+        { "id": "pt1", "name": "Estádio da Luz",               "city": "Lisbonne" },
+        { "id": "pt2", "name": "Estádio José Alvalade",        "city": "Lisbonne" },
+        { "id": "pt3", "name": "Estádio do Dragão",            "city": "Porto" },
+        { "id": "pt4", "name": "Estádio Municipal de Braga",   "city": "Braga" }
       ],
       "teams": [
         { "id": "pt_t1", "name": "SL Benfica" },
@@ -256,41 +252,21 @@
       ]
     },
     {
-      "code": "NL",
-      "flag": "🇳🇱",
-      "name": { "fr": "Pays-Bas", "ar": "هولندا", "en": "Netherlands" },
-      "stadiums": [
-        { "id": "nl1", "name": "Johan Cruijff Arena",            "city": "Amsterdam" },
-        { "id": "nl2", "name": "Philips Stadion",                "city": "Eindhoven" },
-        { "id": "nl3", "name": "De Kuip",                        "city": "Rotterdam" },
-        { "id": "nl4", "name": "Gelredome",                      "city": "Arnhem" }
-      ],
-      "teams": [
-        { "id": "nl_t1", "name": "AFC Ajax" },
-        { "id": "nl_t2", "name": "PSV Eindhoven" },
-        { "id": "nl_t3", "name": "Feyenoord Rotterdam" },
-        { "id": "nl_t4", "name": "AZ Alkmaar" },
-        { "id": "nl_t5", "name": "FC Utrecht" }
-      ]
-    },
-    {
       "code": "TR",
       "flag": "🇹🇷",
       "name": { "fr": "Turquie", "ar": "تركيا", "en": "Turkey" },
       "stadiums": [
-        { "id": "tr1", "name": "Vodafone Park",                  "city": "Istanbul" },
-        { "id": "tr2", "name": "Türk Telekom Stadyumu",          "city": "Istanbul" },
-        { "id": "tr3", "name": "Şükrü Saracoğlu",               "city": "Istanbul" },
-        { "id": "tr4", "name": "Atatürk Olimpiyat Stadyumu",     "city": "Istanbul" },
-        { "id": "tr5", "name": "Timsah Arena",                   "city": "Bursa" }
+        { "id": "tr1", "name": "Vodafone Park",              "city": "Istanbul" },
+        { "id": "tr2", "name": "Türk Telekom Stadyumu",      "city": "Istanbul" },
+        { "id": "tr3", "name": "Şükrü Saracoğlu",           "city": "Istanbul" },
+        { "id": "tr4", "name": "Atatürk Olimpiyat Stadyumu", "city": "Istanbul" }
       ],
       "teams": [
         { "id": "tr_t1", "name": "Galatasaray SK" },
         { "id": "tr_t2", "name": "Fenerbahçe SK" },
         { "id": "tr_t3", "name": "Beşiktaş JK" },
         { "id": "tr_t4", "name": "Trabzonspor" },
-        { "id": "tr_t5", "name": "Bursaspor" },
-        { "id": "tr_t6", "name": "Başakşehir FK" }
+        { "id": "tr_t5", "name": "Başakşehir FK" }
       ]
     },
     {
@@ -298,18 +274,16 @@
       "flag": "🇦🇷",
       "name": { "fr": "Argentine", "ar": "الأرجنتين", "en": "Argentina" },
       "stadiums": [
-        { "id": "ar1", "name": "Estadio Monumental",             "city": "Buenos Aires" },
-        { "id": "ar2", "name": "La Bombonera",                   "city": "Buenos Aires" },
-        { "id": "ar3", "name": "Estadio Mario Alberto Kempes",   "city": "Córdoba" },
-        { "id": "ar4", "name": "Estadio Presidente Perón",       "city": "Buenos Aires" }
+        { "id": "ar1", "name": "Estadio Monumental",           "city": "Buenos Aires" },
+        { "id": "ar2", "name": "La Bombonera",                 "city": "Buenos Aires" },
+        { "id": "ar3", "name": "Estadio Mario Alberto Kempes", "city": "Córdoba" }
       ],
       "teams": [
         { "id": "ar_t1", "name": "Club Atlético River Plate" },
         { "id": "ar_t2", "name": "Club Atlético Boca Juniors" },
         { "id": "ar_t3", "name": "Racing Club" },
         { "id": "ar_t4", "name": "Club Atlético Independiente" },
-        { "id": "ar_t5", "name": "San Lorenzo de Almagro" },
-        { "id": "ar_t6", "name": "Club Atlético Huracán" }
+        { "id": "ar_t5", "name": "San Lorenzo de Almagro" }
       ]
     },
     {
@@ -317,11 +291,10 @@
       "flag": "🇧🇷",
       "name": { "fr": "Brésil", "ar": "البرازيل", "en": "Brazil" },
       "stadiums": [
-        { "id": "br1", "name": "Estádio Jornalista Mário Filho (Maracanã)", "city": "Rio de Janeiro" },
-        { "id": "br2", "name": "Arena Corinthians",               "city": "São Paulo" },
-        { "id": "br3", "name": "Allianz Parque",                  "city": "São Paulo" },
-        { "id": "br4", "name": "Mineirão",                        "city": "Belo Horizonte" },
-        { "id": "br5", "name": "Arena do Grêmio",                 "city": "Porto Alegre" }
+        { "id": "br1", "name": "Maracanã",          "city": "Rio de Janeiro" },
+        { "id": "br2", "name": "Arena Corinthians", "city": "São Paulo" },
+        { "id": "br3", "name": "Allianz Parque",    "city": "São Paulo" },
+        { "id": "br4", "name": "Mineirão",          "city": "Belo Horizonte" }
       ],
       "teams": [
         { "id": "br_t1", "name": "Flamengo" },
@@ -330,8 +303,7 @@
         { "id": "br_t4", "name": "Santos FC" },
         { "id": "br_t5", "name": "São Paulo FC" },
         { "id": "br_t6", "name": "Atlético Mineiro" },
-        { "id": "br_t7", "name": "Fluminense" },
-        { "id": "br_t8", "name": "Grêmio" }
+        { "id": "br_t7", "name": "Fluminense" }
       ]
     }
   ]
